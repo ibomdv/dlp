@@ -1,0 +1,30 @@
+Warnings
+May be ignored if you are happy with your program.
+dlp - 17.04.2026.py
+Line 6 : Unused import csv
+It looks like the imported module or variable is not used.
+Line 87 : Statement is unreachable  [unreachable]
+Line 87 : Name "snr" is used before definition  [used-before-def]
+Line 87 : Name "row" is not defined  [name-defined]
+Line 87 : Unreachable code
+It looks like there is some code behind a "return" or "raise" statement, which will never be accessed.
+Line 87 : Using variable 'snr' before assignment
+It looks like the local variable is accessed before its assignment took place. Assignments in try blocks are assumed not to have occurred when evaluating associated except/finally blocks. Assignments in except blocks are assumed not to have occurred when evaluating statements outside the block, except when the associated try block contains a return statement.
+Line 88 : Name "audiook" is used before definition  [used-before-def]
+Line 88 : Name "row" is not defined  [name-defined]
+Line 88 : Using variable 'audiook' before assignment
+It looks like the local variable is accessed before its assignment took place. Assignments in try blocks are assumed not to have occurred when evaluating associated except/finally blocks. Assignments in except blocks are assumed not to have occurred when evaluating statements outside the block, except when the associated try block contains a return statement.
+Line 89 : Name "doppler" is used before definition  [used-before-def]
+Line 89 : Name "row" is not defined  [name-defined]
+Line 89 : Using variable 'doppler' before assignment
+It looks like the local variable is accessed before its assignment took place. Assignments in try blocks are assumed not to have occurred when evaluating associated except/finally blocks. Assignments in except blocks are assumed not to have occurred when evaluating statements outside the block, except when the associated try block contains a return statement.
+Line 90 : Name "delay" is used before definition  [used-before-def]
+Line 90 : Name "row" is not defined  [name-defined]
+Line 90 : Using variable 'delay' before assignment
+It looks like the local variable is accessed before its assignment took place. Assignments in try blocks are assumed not to have occurred when evaluating associated except/finally blocks. Assignments in except blocks are assumed not to have occurred when evaluating statements outside the block, except when the associated try block contains a return statement.
+Line 92 : Need type annotation for "snr" (hint: "snr: List[<type>] = ...")  [var-annotated]
+Line 93 : Need type annotation for "audiook" (hint: "audiook: List[<type>] = ...")  [var-annotated]
+Line 94 : Need type annotation for "doppler" (hint: "doppler: List[<type>] = ...")  [var-annotated]
+Line 95 : Need type annotation for "delay" (hint: "delay: List[<type>] = ...")  [var-annotated]
+
+Was it helpful or confusing?
