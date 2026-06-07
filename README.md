@@ -1,4 +1,4 @@
 # dlp
-DReaM-Log-Plots
+drmlogplotter - rebuild
 
 Just a try from a beginner
