@@ -1,4 +1,5 @@
 # dlp
-drmlogplotter - rebuild
+drmlogplotter - rebuild - experimental
 
-Just a try from a beginner
+Now a release Version 0.99 - experimental.
+
