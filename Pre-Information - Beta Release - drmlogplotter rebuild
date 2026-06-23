@@ -1,8 +1,0 @@
-Next day a first release of the drmlogplotter-programm follows.
-It is beta-Version.
-
-This program helps you analyze log files created by the DReaM DRM software decoder.
-It plots Data from the dreamlog.txt and dreamloglong.csv Logfiles.
-The programm contains some new small features, compare to the original DRM-Log Plotter-Programm-
-This program will be released under the GNU General Public License v3 (GPL-3.0)
-
