@@ -44,6 +44,7 @@ This code can also be compiled for all common operating systems.
 ### Quick Start:
 Windows 10/11 – Create a new directory under C:\, e.g., named `drmlogplotter`.
 Copy the `.exe` file, `drmtransmittersites.txt`, and `drmlogplotter_help.txt` into this new directory.
+##### Important for Windows 10/11: Run the .exe as administrator. Otherwise, the drmlogplotter cannot access the DReaM decoder software directory!
 After launching `drmlogplotter-rebuild`, the `.json` file and the `Screenshots` and `Logfiles` folders will be created there.
 The new folders are created upon the first use of the respective function.
 
