@@ -48,6 +48,7 @@ Copy the `.exe` file, `drmtransmittersites.txt`, and `drmlogplotter_help.txt` in
 After launching `drmlogplotter-rebuild`, the `.json` file and the `Screenshots` and `Logfiles` folders will be created there.
 The new folders are created upon the first use of the respective function.
 
-Linux: Use the AppImage and follow the instructions in the help text.
-The `.bin` file can be copied into a new directory of your choice; the `.bin` file will then operate using that directory.
-
+Linux: 1) Use the AppImage and follow the instructions in the help text.
+2) The .bin file can be copied into a new directory of your choice; the .bin file will then operate using that directory. 
+Also copy the files drmtransmittersite.txt and drmlogplotter_help.txt into the same directory.
+In principle, the process is the same as when running on Windows 10/11.
