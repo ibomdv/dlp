@@ -40,7 +40,7 @@ This was an attempt to create code using nothing but AI.
 I chose Python because the code is easy for many users to understand.
 This code can also be compiled for all common operating systems.
 
-#### Update 26.June 2026
+#### Update 26. June 2026
 Changes:
 1) The AutoPlot logic for timer events has been revised. AutoPlot cannot be enabled if no log command has been entered.
 2) The AutoPlot countdown for timer events has also been reduced to 20 seconds. This is the time DReaM requires for synchronization to the RX-Signal and start logging.
