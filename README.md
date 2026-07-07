@@ -1,6 +1,4 @@
-#### dlp - 
-
-### drmlogplotter - rebuild - experimental
+### drmlogplotter - rebuild - experimental (v.0.99c)
 
 This rebuild is based on the original DRM Log Plotter.
 
@@ -117,7 +115,7 @@ The AppImage contains all components. You can find the "Screenshot" and "Logs" f
 `/home/pc/.local/share/drmlogplotter`. 
 In your file manager, go to View -> "Show Hidden Files" click yes to locate the `.local` folder within your "pc" directory.
 
-### Quick Start (update 07.July 2026):
+#### Quick Start (update 07.July 2026):
 Windows 10/11 – No installation is required. Create a new directory under C:\, e.g., named `drmlogplotter`.
 Copy both `.exe` files, as well as `drmtransmittersites.txt` and `drmlogplotter_help.txt`, into this new directory.
 ##### Important for Windows 10/11: Run the `drm_log_plotter.exe` file as an administrator. Otherwise, `drmlogplotter` cannot access the DReaM decoder software directory!
