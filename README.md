@@ -40,20 +40,92 @@ This was an attempt to create code using nothing but AI.
 I chose Python because the code is easy for many users to understand.
 This code can also be compiled for all common operating systems.
 
-#### Update 26. June 2026
-Changes:
-1) The AutoPlot logic for timer events has been revised. AutoPlot cannot be enabled if no log command has been entered.
-2) The AutoPlot countdown for timer events has also been reduced to 20 seconds. This is the time DReaM requires for synchronization to the RX-Signal and start logging.
-3) A new "Manage Dream Files" button opens the file explorer on Windows 11, Linux (Ubuntu/Mint), and macOS (the latter is untested).
+#### Update 07. July 2026
+This update brings improvements, fixes, and new features!
 
-### Quick Start:
-Windows 10/11 – Nothing needs to be installed. Create a new directory under C:\, e.g., named `drmlogplotter`.
-Copy the `.exe` file, `drmtransmittersites.txt`, and `drmlogplotter_help.txt` into this new directory.
-##### Important for Windows 10/11: Run the .exe as administrator. Otherwise, the drmlogplotter cannot access the DReaM decoder software directory!
-After launching `drmlogplotter-rebuild`, the `.json` file and the `Screenshots` and `Logfiles` folders will be created there.
-The new folders are created upon the first use of the respective function.
+The most significant new feature is as follows: When you launch the DReaM decoder software via `drmlogplotter_v.0.99c`,
+a new function comes into play. This function reads the DReaM label from the PC screen 30 seconds
+after startup and adds the missing audio code information to the DReaM log.
+In the process, a new file—`DreamAudio.json`—is written to the DReaM folder. `drmlogplotter_v.0.99c`
+then reads this new file and displays the information within the "Main Log" section
+of the main GUI.
 
-Linux: 1) Use the AppImage and follow the instructions in the help text.
-2) The .bin file can be copied into a new directory of your choice; the .bin file will then operate using that directory. 
-Also copy the files drmtransmittersite.txt and drmlogplotter_help.txt into the same directory.
-In principle, the process is the same as when running on Windows 10/11.
+Updates:
+
+
+- RX/TX Distance and AZ Calculation -
+Should now display the same result as the original `drmlogplotter`.
+
+- Main GUI -> LED 3 -
+An additional LED has been added to the main GUI to provide a visual indicator for DReaM logs.
+
+- Main GUI -> DReaM Stop Button -
+A new button has been added to the "Update Files" section, allowing the user to stop
+DReaM Remote quickly, easily, and correctly via `drmlogplotter`. This function ensures
+that various settings in `Dream.ini` are correctly reset.
+
+- Main GUI -> Main Log Section -
+Result displays for Audio Code / Prot. Level and Audio Mode have been added.
+
+- Main GUI -> DRM Mode Used Section -
+DReaM log glitches should no longer generate phantom modes.
+
+- Main GUI - Select Main Log - 
+The tabular display of logs in DReaM is now better organized.
+
+- Main GUI - AutoPlot - 
+The minimum interval time is now 5 seconds.
+
+- Main GUI - AutoPlot -
+If you run AutoPlot (manually or via a timer event) and Dream Log stops correctly via drmlogplotter, then AutoPlot checks for 15 seconds longer to see if a Dream Log is still running. This was exactly how it worked in the original version.
+
+- Main GUI - Line Plot - 
+The "Delay" line is now finer and less bright, resulting in a more balanced visual appearance.
+
+- Main GUI - Line Plot - 
+The "Doppler" line is now slightly brighter. - Main GUI – Line Plot
+The priority for the plotting process is now: 1) SNR, 2) Audio, 3) Doppler, 4) Delay.
+
+- "Basic Setup Parameters" Dialog -
+The window layout has been improved, and "Set" buttons have been added to make it more intuitive for the user.
+
+- "Dream and Receiver Configuration" Dialog - 
+Input handling for the paths required to access Dream remotely via drmlogplotter has been optimized.
+This input method works equally well on Windows 11, Ubuntu, and Linux Mint. Also new "Set" button has been implemented.
+
+- Help Text File - 
+The help text has been expanded and the sections reorganized for better clarity.
+
+- drmtransmittersites.txt - 
+You can use your existing transmitter sites file from the original drmlogplotter with the new dlp-experimental version as well.
+
+- Python -
+A new third file has been created to support the program's workflow in Python.
+Therefore, all three files must be placed in the same directory.
+
+- Linux binaries (startup issues) - 
+The compilation process has been optimized; consequently, `DreamLogPlotter.bin` and `DreamAudio.bin` should now be able to run from the same directory on Linux.
+
+- Windows 11 - 
+There are now two `.exe` files that must be placed together in the same directory.
+
+- Python/Linux/Windows 11 -
+Additionally, place the files `drmtransmittersites.txt` and `drmlogplotter_help.txt` in this same directory.
+
+- AppImage -
+The AppImage contains all components. You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json`, at
+`/home/pc/.local/share/drmlogplotter`. 
+In your file manager, go to View -> "Show Hidden Files" click yes to locate the `.local` folder within your "pc" directory.
+
+### Quick Start (update 07.July 2026):
+Windows 10/11 – No installation is required. Create a new directory under C:\, e.g., named `drmlogplotter`.
+Copy both `.exe` files, as well as `drmtransmittersites.txt` and `drmlogplotter_help.txt`, into this new directory.
+##### Important for Windows 10/11: Run the `drm_log_plotter.exe` file as an administrator. Otherwise, `drmlogplotter` cannot access the DReaM decoder software directory!
+After launching `drmlogplotter`, the `.json` file and the `Screenshots` and `Logfiles` folders will be created there.
+The new folders are created when the respective function is used for the first time.
+
+Linux: 1) Use the AppImage and follow the instructions in the help text. You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json`, at
+`/home/pc/.local/share/drmlogplotter`.
+2) The `.bin` file can be copied to any new directory; it will then operate from that directory.
+Also, copy the files `drmtransmittersite.txt` and `drmlogplotter_help.txt` into the same directory.
+In principle, the process is the same as on Windows 10/11.
