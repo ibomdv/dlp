@@ -18,7 +18,6 @@ Red line    =  SNR — Signal-to-Noise Ratio (dB)
 Green line  =  Doppler spread (Hz)
 Ochre line  =  Delay spread (ms)
 
-(see also the help text)
 
 <img width="1267" height="744" alt="DRMLogPlotter-experimental" src="https://github.com/user-attachments/assets/5445cd2b-ddfd-4002-ab58-a00f57dd9e57" />
 
