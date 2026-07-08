@@ -179,4 +179,4 @@ Copy all 3 (!) Python files into the same directory.
 Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
 *****************************************************************************
 
-My respectful thoughts go out to the developer of the original DRMLogPlotter (2007–2022).
+My respectful thoughts go out to the developer of the original DRMLogPlotter Terje Isberg, who worked on it from 2007 to 2022.
