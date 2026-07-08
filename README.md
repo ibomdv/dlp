@@ -127,12 +127,15 @@ After launching `drmlogplotter`, the `.json` file and the `Screenshots` and `Log
 The new folders are created when the respective function is used for the first time.
 
 #### Linux 
+
 ##### AppImage -> 
 1) Use the AppImage and follow the instructions in the help text.
 You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json`, at `/home/pc/.local/share/drmlogplotter`.
 In this folder copy also "drmtransmittersites.txt" and drmlogplotter_help.txt.
 
+##### Linux Bin
 2) The `DRMLogplotter.bin` and the DRMLogPlotter_Audio.bin can be copied to a directory and folder of your choice.
 It will then operate from that directory.
 Also, copy the files `drmtransmittersite.txt` and `drmlogplotter_help.txt` into the same directory.
+You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json` here.
 In principle, the process is the same as on Windows 10/11.
