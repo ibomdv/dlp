@@ -1,7 +1,5 @@
 ### drmlogplotter - rebuild - experimental (v.0.99c)
 
-<img width="1192" height="723" alt="5910-08072026-1759-1826-Ant-SWL" src="https://github.com/user-attachments/assets/0cfc4ef4-3b68-41b5-9eab-f05ea3cde12b" />
-
 
 This rebuild is based on the original DRM Log Plotter.
 
