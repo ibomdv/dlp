@@ -29,6 +29,11 @@ this is written to the *dream.ini* file before DReaM is started remotely.
 The logging flag is also set based on the input and reset when DReaM stops.
 The auto-plot function can be triggered manually or via a timer event.
 
+
+<img width="649" height="521" alt="Dream-Start Schedule - Window" src="https://github.com/user-attachments/assets/7235b32b-b752-4c6e-934c-5a03296daadf" />
+
+
+
 Another new idea is the ability to connect the RX (transceiver) to *dlp* via Hamlib/RigCTL.
 The Icom IC-7300 and IC-705 allow the receiver's IF output to be fed to the PC sound card via a USB cable.
 This ensures DReaM receives the perfect signal. Timer events allow for convenient control of the transceiver, DReaM, and *dlp*.
@@ -36,7 +41,12 @@ The ability to connect an SDR radio is also an interesting feature; the software
 
 Status LEDs were introduced to provide the user with an overview of whether all functions are operating correctly.
 
-#### Special to this Version
+
+<img width="758" height="709" alt="Dream and Receiver Configuration" src="https://github.com/user-attachments/assets/9d2233ea-61d1-4529-a47f-da4dadbba1f5" />
+
+
+
+#### Special to this Version ( 07.July 2026 )
 
 The next idea was to incorporate information into the analysis that isn't directly available in the DReaM decoder software's logs—specifically, details regarding the audio codec, audio mode, and protection level.
 
