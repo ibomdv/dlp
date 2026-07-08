@@ -51,10 +51,6 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 
 
-
-
-
-
 ##### The code:
 
 I am not a programmer.
