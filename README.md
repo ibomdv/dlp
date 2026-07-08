@@ -176,6 +176,7 @@ In principle, the process is the same as on Windows 10/11.
 
 ##### Python:
 Copy all 3 (!) Python files into the same directory.
+
 Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
 *****************************************************************************
 
