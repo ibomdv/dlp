@@ -20,6 +20,10 @@ Ochre line  =  Delay spread (ms)
 
 (see also the help text)
 
+<img width="1267" height="744" alt="DRMLogPlotter-experimental" src="https://github.com/user-attachments/assets/5445cd2b-ddfd-4002-ab58-a00f57dd9e57" />
+
+
+
 ##### New ideas:
 One new idea was the ability to launch the DReaM decoder software from within *dlp*— either manually or via a timer event. 
 There is also a convenient option to enter the logging frequency; 
