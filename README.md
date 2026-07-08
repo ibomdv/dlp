@@ -36,7 +36,9 @@ The ability to connect an SDR radio is also an interesting feature; the software
 
 Status LEDs were introduced to provide the user with an overview of whether all functions are operating correctly.
 
-Another new idea was to incorporate information into the analysis that isn't directly available in the DReaM decoder software's logs—specifically, details regarding the audio codec, audio mode, and protection level.
+#### Special to this Version
+
+The next idea was to incorporate information into the analysis that isn't directly available in the DReaM decoder software's logs—specifically, details regarding the audio codec, audio mode, and protection level.
 
 Modifying the original DReaM code (C++) to extract this information directly from the program is highly challenging, even with AI assistance.
 In this case, it was impossible.
