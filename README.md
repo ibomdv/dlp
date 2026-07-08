@@ -152,7 +152,7 @@ In your file manager, go to View -> "Show Hidden Files" click yes to locate the 
 
 #### Quick Start (update 07.July 2026):
 
-##### Windows 10/11 –>
+#### Windows 10/11 –>
 
 No installation is required. Create a new directory under C:\, e.g., named `drmlogplotter`.
 Copy both `.exe` files, as well as `drmtransmittersites.txt` and `drmlogplotter_help.txt`, into this new directory.
