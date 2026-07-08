@@ -7,7 +7,8 @@ Consequently, it was no longer possible to incorporate new ideas into the existi
 Many ideas in the original were excellent.
 Some of those ideas were not carried over into *dlp*.
 
-About the program:
+#### About the program:
+
 DRM Log Plotter reads and visualizes log files created by the free DRM (Digital Radio Mondiale) software decoder, DReaM.
 It plots the following data from a DReaM log session:
 
@@ -18,7 +19,7 @@ Ochre line  =  Delay spread (ms)
 
 (see also the help text)
 
-New ideas:
+##### New ideas:
 One new idea was the ability to launch the DReaM decoder software from within *dlp*— either manually or via a timer event. 
 There is also a convenient option to enter the logging frequency; 
 this is written to the *dream.ini* file before DReaM is started remotely.
@@ -32,7 +33,8 @@ The ability to connect an SDR radio is also an interesting feature; the software
 
 Status LEDs were introduced to provide the user with an overview of whether all functions are operating correctly.
 
-The code:
+##### The code:
+
 I am not a programmer.
 This was an attempt to create code using nothing but AI.
 I chose Python because the code is easy for many users to understand.
@@ -48,8 +50,7 @@ In the process, a new file—`DreamAudio.json`—is written to the DReaM folder.
 then reads this new file and displays the information within the "Main Log" section
 of the main GUI.
 
-Updates:
-
+#### Updates:
 
 - RX/TX Distance and AZ Calculation -
 Should now display the same result as the original `drmlogplotter`.
