@@ -81,7 +81,9 @@ If you run AutoPlot (manually or via a timer event) and Dream Log stops correctl
 The "Delay" line is now finer and less bright, resulting in a more balanced visual appearance.
 
 - Main GUI -> Line Plot - 
-The "Doppler" line is now slightly brighter. - Main GUI – Line Plot
+The "Doppler" line is now slightly brighter.
+
+- Main GUI –> Line Plot
 The priority for the plotting process is now: 1) SNR, 2) Audio, 3) Doppler, 4) Delay.
 
 - "Basic Setup Parameters" Dialog ->
@@ -116,7 +118,9 @@ The AppImage contains all components. You can find the "Screenshot" and "Logs" f
 In your file manager, go to View -> "Show Hidden Files" click yes to locate the `.local` folder within your "pc" directory.
 
 #### Quick Start (update 07.July 2026):
-Windows 10/11 – No installation is required. Create a new directory under C:\, e.g., named `drmlogplotter`.
+##### Windows 10/11 –>
+
+No installation is required. Create a new directory under C:\, e.g., named `drmlogplotter`.
 Copy both `.exe` files, as well as `drmtransmittersites.txt` and `drmlogplotter_help.txt`, into this new directory.
 ##### Important for Windows 10/11: Run the `drm_log_plotter.exe` file as an administrator. Otherwise, `drmlogplotter` cannot access the DReaM decoder software directory!
 After launching `drmlogplotter`, the `.json` file and the `Screenshots` and `Logfiles` folders will be created there.
