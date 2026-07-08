@@ -56,6 +56,9 @@ In this case, it was impossible.
 However, the AI ​​came up with a different idea—one that takes a bit of lateral thinking:
 
 Capture the missing information from the DReaM station label on the PC screen and save it as a new, additional .json file in the DReaM folder!
+
+<img width="504" height="293" alt="DReaM-Label-Information" src="https://github.com/user-attachments/assets/87201b2e-45d1-4ac7-8fc3-22b71f33bbe4" />
+
 The rebuilt DRMLogPlotter automatically detects both the existing and the new log files and displays the information in the main GUI.
 In the latest version, this works very well across Python, Windows 11, and Linux (Ubuntu/Linux Mint).
 
