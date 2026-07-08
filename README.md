@@ -68,49 +68,49 @@ Result displays for Audio Code / Prot. Level and Audio Mode have been added.
 - Main GUI -> DRM Mode Used Section -
 DReaM log glitches should no longer generate phantom modes.
 
-- Main GUI - Select Main Log - 
+- Main GUI -> Select Main Log - 
 The tabular display of logs in DReaM is now better organized.
 
-- Main GUI - AutoPlot - 
+- Main GUI -> AutoPlot - 
 The minimum interval time is now 5 seconds.
 
-- Main GUI - AutoPlot -
+- Main GUI -> AutoPlot -
 If you run AutoPlot (manually or via a timer event) and Dream Log stops correctly via drmlogplotter, then AutoPlot checks for 15 seconds longer to see if a Dream Log is still running. This was exactly how it worked in the original version.
 
-- Main GUI - Line Plot - 
+- Main GUI -> Line Plot - 
 The "Delay" line is now finer and less bright, resulting in a more balanced visual appearance.
 
-- Main GUI - Line Plot - 
+- Main GUI -> Line Plot - 
 The "Doppler" line is now slightly brighter. - Main GUI – Line Plot
 The priority for the plotting process is now: 1) SNR, 2) Audio, 3) Doppler, 4) Delay.
 
-- "Basic Setup Parameters" Dialog -
+- "Basic Setup Parameters" Dialog ->
 The window layout has been improved, and "Set" buttons have been added to make it more intuitive for the user.
 
-- "Dream and Receiver Configuration" Dialog - 
+- "Dream and Receiver Configuration" Dialog ->
 Input handling for the paths required to access Dream remotely via drmlogplotter has been optimized.
 This input method works equally well on Windows 11, Ubuntu, and Linux Mint. Also new "Set" button has been implemented.
 
-- Help Text File - 
+- Help Text File ->
 The help text has been expanded and the sections reorganized for better clarity.
 
-- drmtransmittersites.txt - 
+- drmtransmittersites.txt -> 
 You can use your existing transmitter sites file from the original drmlogplotter with the new dlp-experimental version as well.
 
-- Python -
+- Python ->
 A new third file has been created to support the program's workflow in Python.
 Therefore, all three files must be placed in the same directory.
 
-- Linux binaries (startup issues) - 
+- Linux binaries (startup issues) ->
 The compilation process has been optimized; consequently, `DreamLogPlotter.bin` and `DreamAudio.bin` should now be able to run from the same directory on Linux.
 
-- Windows 11 - 
+- Windows 11 -> 
 There are now two `.exe` files that must be placed together in the same directory.
 
-- Python/Linux/Windows 11 -
+- Python/Linux/Windows 11 ->
 Additionally, place the files `drmtransmittersites.txt` and `drmlogplotter_help.txt` in this same directory.
 
-- AppImage -
+- AppImage ->
 The AppImage contains all components. You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json`, at
 `/home/pc/.local/share/drmlogplotter`. 
 In your file manager, go to View -> "Show Hidden Files" click yes to locate the `.local` folder within your "pc" directory.
@@ -122,8 +122,10 @@ Copy both `.exe` files, as well as `drmtransmittersites.txt` and `drmlogplotter_
 After launching `drmlogplotter`, the `.json` file and the `Screenshots` and `Logfiles` folders will be created there.
 The new folders are created when the respective function is used for the first time.
 
-Linux: 1) Use the AppImage and follow the instructions in the help text. You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json`, at
+Linux: 
+1) Use the AppImage and follow the instructions in the help text. You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json`, at
 `/home/pc/.local/share/drmlogplotter`.
+
 2) The `.bin` file can be copied to any new directory; it will then operate from that directory.
 Also, copy the files `drmtransmittersite.txt` and `drmlogplotter_help.txt` into the same directory.
 In principle, the process is the same as on Windows 10/11.
