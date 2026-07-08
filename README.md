@@ -126,10 +126,13 @@ Copy both `.exe` files, as well as `drmtransmittersites.txt` and `drmlogplotter_
 After launching `drmlogplotter`, the `.json` file and the `Screenshots` and `Logfiles` folders will be created there.
 The new folders are created when the respective function is used for the first time.
 
-Linux: 
-1) Use the AppImage and follow the instructions in the help text. You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json`, at
-`/home/pc/.local/share/drmlogplotter`.
+#### Linux 
+##### AppImage -> 
+1) Use the AppImage and follow the instructions in the help text.
+You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json`, at `/home/pc/.local/share/drmlogplotter`.
+In this folder copy also "drmtransmittersites.txt" and drmlogplotter_help.txt.
 
-2) The `.bin` file can be copied to any new directory; it will then operate from that directory.
+2) The `DRMLogplotter.bin` and the DRMLogPlotter_Audio.bin can be copied to a directory and folder of your choice.
+It will then operate from that directory.
 Also, copy the files `drmtransmittersite.txt` and `drmlogplotter_help.txt` into the same directory.
 In principle, the process is the same as on Windows 10/11.
