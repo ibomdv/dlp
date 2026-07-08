@@ -22,7 +22,6 @@ Ochre line  =  Delay spread (ms)
 <img width="1267" height="744" alt="DRMLogPlotter-experimental" src="https://github.com/user-attachments/assets/5445cd2b-ddfd-4002-ab58-a00f57dd9e57" />
 
 
-
 ##### New ideas:
 One new idea was the ability to launch the DReaM decoder software from within *dlp*— either manually or via a timer event. 
 There is also a convenient option to enter the logging frequency; 
@@ -36,6 +35,23 @@ This ensures DReaM receives the perfect signal. Timer events allow for convenien
 The ability to connect an SDR radio is also an interesting feature; the software FLrig can serve as a bridge here if necessary.
 
 Status LEDs were introduced to provide the user with an overview of whether all functions are operating correctly.
+
+Another new idea was to incorporate information into the analysis that isn't directly available in the DReaM decoder software's logs—specifically, details regarding the audio codec, audio mode, and protection level.
+
+Modifying the original DReaM code (C++) to extract this information directly from the program is highly challenging, even with AI assistance.
+In this case, it was impossible.
+
+However, the AI ​​came up with a different idea—one that takes a bit of lateral thinking:
+
+Capture the missing information from the DReaM station label on the PC screen and save it as a new, additional .json file in the DReaM folder!
+The rebuilt DRMLogPlotter automatically detects both the existing and the new log files and displays the information in the main GUI.
+In the latest version, this works very well across Python, Windows 11, and Linux (Ubuntu/Linux Mint).
+
+
+
+
+
+
 
 ##### The code:
 
