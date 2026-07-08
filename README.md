@@ -118,6 +118,7 @@ The AppImage contains all components. You can find the "Screenshot" and "Logs" f
 In your file manager, go to View -> "Show Hidden Files" click yes to locate the `.local` folder within your "pc" directory.
 
 #### Quick Start (update 07.July 2026):
+
 ##### Windows 10/11 –>
 
 No installation is required. Create a new directory under C:\, e.g., named `drmlogplotter`.
@@ -134,7 +135,7 @@ You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.jso
 In this folder copy also "drmtransmittersites.txt" and drmlogplotter_help.txt.
 
 ##### Linux Bin
-2) The `DRMLogplotter.bin` and the DRMLogPlotter_Audio.bin can be copied to a directory and folder of your choice.
+2) The `DRMLogplotter.bin` and the `DRMLogPlotter_Audio.bin` can be copied to a directory and folder of your choice.
 It will then operate from that directory.
 Also, copy the files `drmtransmittersite.txt` and `drmlogplotter_help.txt` into the same directory.
 You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json` here.
