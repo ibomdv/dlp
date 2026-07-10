@@ -13,7 +13,7 @@ Some of those ideas were not carried over into *dlp*.
 
 #### About the program:
 
-DRM Log Plotter reads and visualizes log files created by the free DRM (Digital Radio Mondiale) software decoder, DReaM.
+DRM Log Plotter (old and the new rebuild-experimental) reads and visualizes log files created by the free DRM (Digital Radio Mondiale) software decoder, DReaM.
 It plots the following data from a DReaM log session:
 
 Blue line   =  Decoded Audio (0 – 100%)
