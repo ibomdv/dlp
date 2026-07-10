@@ -167,8 +167,10 @@ The new folders are created when the respective function is used for the first t
 
 ##### 1) AppImage:
 Use the AppImage and follow the instructions in the help text.
-You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json`, 
-###### at `/home/pc/.local/share/drmlogplotter`.
+You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json`,
+
+##### at `/home/pc/.local/share/drmlogplotter`.
+
 In this folder copy also "drmtransmittersites.txt" and drmlogplotter_help.txt.
 
 ##### 2) Linux Bin:
