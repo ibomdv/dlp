@@ -178,7 +178,7 @@ You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.jso
 In principle, the process is the same as on Windows 10/11.
 
 #### Python:
-Copy all 3 (!) Python files into the same directory.
+3) Copy all 3 (!) Python files into the same directory.
 Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
 *****************************************************************************
 
