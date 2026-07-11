@@ -68,7 +68,7 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 <img width="433" height="167" alt="Main Log with Audio Codec" src="https://github.com/user-attachments/assets/6bd1ee1e-7e0a-413f-88ce-f039ca1f4bc6" />
 
 
-#### The code:
+#### The Code:
 
 I am not a programmer.
 This was an attempt to create code using nothing but AI.
