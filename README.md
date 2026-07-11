@@ -218,7 +218,7 @@ Save, close, and restart.
 
 <img width="752" height="333" alt="DRMLogPlotter - Network" src="https://github.com/user-attachments/assets/b3c7f594-a6c9-450f-9bd6-da3f8d21ad53" />
 
-Ideally, you should see an "RX-Connect" status, and entering a
+Ideally, you should see an positiv "RX-Connect" status, and entering a
 test frequency should cause the RX/TRX to switch to the desired frequency.
 
 
