@@ -38,10 +38,10 @@ The auto-plot function can be triggered manually or via a timer event.
 
 
 Another new idea is the ability to connect the RX (transceiver) to *dlp* via Hamlib/RigCTL.
-The Icom IC-7300 and IC-705 allow the receiver's IF output to be fed to the PC sound card via a USB cable.
+For example, with the Icom IC-7300 and IC-705, the receiver's IF output can be routed to the PC sound card via a USB cable.
 This ensures DReaM receives the perfect signal. Timer events allow for convenient control of the transceiver, DReaM, and *dlp*.
 The ability to connect an SDR radio is also an interesting feature; the software FLrig can serve as a bridge here if necessary.
-
+Older devices can also be controlled remotely. Please also note the tip below, which describes how the "FLRig" program can act as a bridge.
 Status LEDs were introduced to provide the user with an overview of whether all functions are operating correctly.
 
 
