@@ -190,8 +190,9 @@ Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
 
 ### Additional note regarding remote connection:
 
-If there are issues detecting the USB or network connection,
-the excellent FLRig software might provide a solution.
+If you encounter problems detecting the USB or network connection—which typically occur with older devices
+or connections using adapters or virtual COM interfaces, try the following steps.
+The excellent FLRig software could serve as a bridge between your RX/TRX and the DRMLogPlotter-rebuild.
 
 https://sourceforge.net/projects/fldigi/files/
 
