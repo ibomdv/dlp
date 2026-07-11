@@ -180,7 +180,7 @@ Also, copy the files `drmtransmittersite.txt` and `drmlogplotter_help.txt` into 
 You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json` here.
 In principle, the process is the same as on Windows 10/11.
 
-##### 3) Python:
+#### Python:
 Copy all 3 (!) Python files into the same directory.
 Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
 *****************************************************************************
