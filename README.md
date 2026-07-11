@@ -168,6 +168,7 @@ Copy both `.exe` files, as well as `drmtransmittersites.txt` and `drmlogplotter_
 After launching `drmlogplotter`, the `.json` file and the `Screenshots` and `Logfiles` folders will be created there.
 The new folders are created when the respective function is used for the first time.
 
+
 #### Linux 
 
 ##### 1) AppImage:
@@ -185,9 +186,12 @@ Also, copy the files `drmtransmittersite.txt` and `drmlogplotter_help.txt` into 
 You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json` here.
 In principle, the process is the same as on Windows 10/11.
 
+
 #### Python:
 Copy all 3 (!) Python files into the same directory.
 Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
+
+
 
 
 ### Additional note regarding remote connection:
@@ -223,9 +227,6 @@ Save, close, and restart.
 
 Ideally, you should see an positiv "RX-Connect" status, and entering a
 test frequency should cause the RX/TRX to switch to the desired frequency.
-
-
-
 
 
 *****************************************************************************
