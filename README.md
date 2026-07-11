@@ -188,7 +188,7 @@ Copy all 3 (!) Python files into the same directory.
 Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
 
 
-##### Additional note regarding remote connection:
+### Additional note regarding remote connection:
 
 If there are issues detecting the USB or network connection,
 the excellent FLRig software might provide a solution.
