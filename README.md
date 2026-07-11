@@ -186,6 +186,45 @@ In principle, the process is the same as on Windows 10/11.
 #### Python:
 Copy all 3 (!) Python files into the same directory.
 Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
+
+
+##### Additional note regarding remote connection:
+
+If there are issues detecting the USB or network connection,
+the excellent FLRig software might provide a solution.
+
+https://sourceforge.net/projects/fldigi/files/
+
+Download the software FLRig to your PC at your own risk, install it, and then restart the PC.
+First, establish a connection between your RX/TRX and FLRig.
+
+
+<img width="1102" height="350" alt="FLRig" src="https://github.com/user-attachments/assets/3b321af0-bd13-4e7e-a853-bf7c7586d51e" />
+
+
+If FLRig successfully confirms the connection, the RX frequency, for example, will be visible in the FLRig GUI.
+Once that is successful, check the "Client" setting.
+
+<img width="674" height="311" alt="FLRig Client" src="https://github.com/user-attachments/assets/d6a41de4-9435-4f9f-a41d-4f159e6bbaef" />
+
+
+
+Transfer the data to DRMLogPlotter.
+
+
+In DRMLogPlotter, select "FLRig FLRIG" from the Hamlib list.
+Save, close, and restart.
+
+
+<img width="752" height="333" alt="DRMLogPlotter - Network" src="https://github.com/user-attachments/assets/b3c7f594-a6c9-450f-9bd6-da3f8d21ad53" />
+
+Ideally, you should see an "RX-Connect" status, and entering a
+test frequency should cause the RX/TRX to switch to the desired frequency.
+
+
+
+
+
 *****************************************************************************
 
 My respectful thoughts go out to the developer of the original DRMLogPlotter Terje Isberg, who worked on it from 2007 to 2022.
