@@ -53,13 +53,7 @@ Status LEDs were introduced to provide the user with an overview of whether all 
 
 
 
-
-
 <img width="759" height="669" alt="Dream and Receiver config _new" src="https://github.com/user-attachments/assets/d5cdab03-4357-4993-9596-377400bc5611" />
-
-
-
-
 
 
 #### Special to this Version ( 07.July 2026 )
