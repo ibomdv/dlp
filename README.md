@@ -33,7 +33,11 @@ The logging flag is also set based on the input and reset when DReaM stops.
 The auto-plot function can be triggered manually or via a timer event.
 
 
+
+
 <img width="649" height="521" alt="Dream-Start Schedule - Window" src="https://github.com/user-attachments/assets/7235b32b-b752-4c6e-934c-5a03296daadf" />
+
+
 
 
 
@@ -49,7 +53,11 @@ Status LEDs were introduced to provide the user with an overview of whether all 
 
 
 
+
+
 <img width="759" height="669" alt="Dream and Receiver config _new" src="https://github.com/user-attachments/assets/d5cdab03-4357-4993-9596-377400bc5611" />
+
+
 
 
 
