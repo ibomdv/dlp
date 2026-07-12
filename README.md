@@ -48,7 +48,8 @@ Older devices can also be controlled remotely. Please also note the tip below, w
 Status LEDs were introduced to provide the user with an overview of whether all functions are operating correctly.
 
 
-<img width="758" height="709" alt="Dream and Receiver Configuration" src="https://github.com/user-attachments/assets/9d2233ea-61d1-4529-a47f-da4dadbba1f5" />
+<img width="760" height="668" alt="Dream and Receiver config _new" src="https://github.com/user-attachments/assets/ead99bf5-c9d2-468f-8912-a33496d64ef9" />
+
 
 
 
