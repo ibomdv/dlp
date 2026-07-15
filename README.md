@@ -53,7 +53,8 @@ The ability to connect an SDR radio is also an interesting feature; the software
 
 Older devices can also be controlled remotely. Please also note the tip below, which describes how the "FLRig" program can act as a bridge.
 
-Status LEDs were introduced to provide the user with an overview of whether all functions are operating correctly.
+Status LEDs were introduced to provide the user with an overview of whether all functions are operating correctly.  
+Updated Picture 16.07.2026
 
 
 
