@@ -105,7 +105,7 @@ In the process, a new file—`DreamAudio.json`—is written to the DReaM folder.
 then reads this new file and displays the information within the "Main Log" section
 of the main GUI.
 
-#### Updates:
+
 
 - RX/TX Distance and AZ Calculation -
 Should now display the same result as the original `drmlogplotter`.
