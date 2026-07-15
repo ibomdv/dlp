@@ -84,9 +84,7 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 I am not a programmer.
 This was an attempt to create code using nothing but AI.
 I chose Python because the code is easy for many users to understand.
-This code can also be compiled for all common operating systems.
-
-
+This code can also be compiled for all common operating systems.  
 #### Update from 16.07.2026
 
 - There are significant improvements once again:
@@ -95,12 +93,6 @@ RX parameters for HamLib/rigCTL can now be specifically configured.
 
 - The processing of the dreamloglong.csv file has been revised.
 The "empty plot" issue should now be resolved.
-
-
-
-
-
-
 
 
 ##### Update from 07. July 2026
