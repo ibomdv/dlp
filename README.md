@@ -30,6 +30,17 @@ Ochre line  =  Delay spread (ms)
 
 
 ##### New ideas:
+
+1) You can launch the DReaM decoder software from within drmlogplotter.
+2) You can launch DReaM and simultaneously have a log created using the correct logging frequency.
+3) You can launch DReaM via a timer event.
+4) You can launch DReaM via a timer event with logging and live auto-plotting enabled.
+5) For all these functions, you can remotely tune your receiver to a specific frequency.
+6) You can use a timer event to switch the receiver frequency at a time of your choosing and launch DReaM with or without logging.
+
+
+###### But step by step:
+
 One new idea was the ability to launch the DReaM decoder software from within *dlp*— either manually or via a timer event. 
 There is also a convenient option to enter the logging frequency; 
 this is written to the *dream.ini* file before DReaM is started remotely.
