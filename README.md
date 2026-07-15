@@ -12,7 +12,8 @@ This rebuild is based on the original DRM Log Plotter.
 Unfortunately, the source code for the original is unavailable.
 Consequently, it was no longer possible to incorporate new ideas into the existing program.
 Many ideas in the original were excellent.
-Some of those ideas were not carried over into *dlp*.
+Some of those ideas were not carried over into *dlp*.  
+
 
 #### About the program:
 
