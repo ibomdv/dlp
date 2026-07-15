@@ -94,7 +94,6 @@ RX parameters for HamLib/rigCTL can now be specifically configured.
 - The processing of the dreamloglong.csv file has been revised.
 The "empty plot" issue should now be resolved.
 
-
 ##### Update from 07. July 2026
 This update brings improvements, fixes, and new features!
 
