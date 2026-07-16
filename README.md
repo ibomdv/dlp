@@ -35,7 +35,7 @@ Ochre line  =  Delay spread (ms)
 2) You can launch DReaM and simultaneously have a log created using the correct logging frequency.
 3) You can launch DReaM via a timer event.
 4) You can launch DReaM via a timer event with logging and live auto-plotting enabled.
-  Up to this point, a receiver connection is not strictly necessary.
+5) Up to this point, a receiver connection is not strictly necessary.
 
 6) For all these functions, you can remotely tune your receiver to a specific frequency.
 7) You can use a timer event to switch the receiver frequency at a time of your choosing and launch DReaM with or without logging.
