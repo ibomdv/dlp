@@ -82,7 +82,7 @@ Status LEDs were introduced to provide the user with an overview of whether all 
 
 
 
-#### Special to this Version from 07.July 2026  
+#### Special to Version from 07.July 2026  
 
 
 The next idea was to incorporate information into the analysis that isn't directly available in the DReaM decoder software's logs—specifically, details regarding the audio codec, audio mode, and protection level.
