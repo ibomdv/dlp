@@ -34,8 +34,7 @@ Ochre line  =  Delay spread (ms)
 I am not a programmer.
 This was an attempt to create code using nothing but AI.
 I chose Python because the code is easy for many users to understand.
-This code can also be compiled for all common operating systems.
-
+This code can also be compiled for all common operating systems.  
 
 
 ##### New ideas:
