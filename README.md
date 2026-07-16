@@ -29,6 +29,15 @@ Ochre line  =  Delay spread (ms)
 <img width="1267" height="744" alt="DRMLogPlotter-experimental" src="https://github.com/user-attachments/assets/5445cd2b-ddfd-4002-ab58-a00f57dd9e57" />
 
 
+#### The Code:
+
+I am not a programmer.
+This was an attempt to create code using nothing but AI.
+I chose Python because the code is easy for many users to understand.
+This code can also be compiled for all common operating systems.
+
+
+
 ##### New ideas:
 
 1) You can launch the DReaM decoder software from within DRMLogPlotter-rebuild.
@@ -94,12 +103,7 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 <img width="433" height="167" alt="Main Log with Audio Codec" src="https://github.com/user-attachments/assets/6bd1ee1e-7e0a-413f-88ce-f039ca1f4bc6" />
 
 
-#### The Code:
-
-I am not a programmer.
-This was an attempt to create code using nothing but AI.
-I chose Python because the code is easy for many users to understand.
-This code can also be compiled for all common operating systems.  
+  
 #### Update from 16.07.2026
 
 - There are significant improvements once again:
