@@ -31,7 +31,7 @@ Ochre line  =  Delay spread (ms)
 
 ##### New ideas:
 
-1) You can launch the DReaM decoder software from within drmlogplotter.
+1) You can launch the DReaM decoder software from within DRMLogPlotter-rebuild.
 2) You can launch DReaM and simultaneously have a log created using the correct logging frequency.
 3) You can launch DReaM via a timer event.
 4) You can launch DReaM via a timer event with logging and live auto-plotting enabled.
