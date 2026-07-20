@@ -107,21 +107,22 @@ Version 1.00 has been released.
 
 New improvements have been implemented in the code!
 
-- Main GUI -> Main Plot Window
+- Main GUI -> Main Plot Window  
 The display and analysis of the green Doppler line should now closely match the original DRMLogPlotter.
 
-- Setup -> Basic Setup Parameters -> Dream and Receiver Configuration  
+- Setup -> Basic Setup Parameters -> Dream and Receiver Configuration
+  
 The "Hamlib NET rigctl" transceiver/RX selection should now work successfully with rigctl servers.
 Frequency switching in the "SDR++" software can now be successfully controlled via the DRMLogPlotter-rebuild's rigctl server setting.
 
-- Main GUI -> DRM Mode Used
+- Main GUI -> DRM Mode Used  
 The DRM mode analysis has been further refined.
 
-- Set Event -> Dream Start & Schedule Dialog
+- Set Event -> Dream Start & Schedule Dialog  
 The "midnight logic" has been completely overhauled.
 Timer events should now start correctly even after midnight.
 
-- Main GUI -> Frame Color
+- Main GUI -> Frame Color  
 Color settings for the frame and scale display in the main plot window have been optimized for the "Gray" theme.
 
 
