@@ -55,7 +55,7 @@ A connection to the receiver is not strictly necessary up to this point.
 
 
   
-###### But step by step:
+##### But step by step:
 
 One new idea was the ability to launch the DReaM decoder software from within *dlp*— either manually or via a timer event. 
 There is also a convenient option to enter the logging frequency; 
