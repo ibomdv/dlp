@@ -83,9 +83,6 @@ Status LEDs were introduced to provide the user with an overview of whether all 
 
 
 
-#### Special to Version from 07.July 2026  
-
-
 The next idea was to incorporate information into the analysis that isn't directly available in the DReaM decoder software's logs—specifically, details regarding the audio codec, audio mode, and protection level.
 
 Modifying the original DReaM code (C++) to extract this information directly from the program is highly challenging, even with AI assistance.
@@ -113,7 +110,7 @@ New improvements have been implemented in the code!
 - Main GUI -> Main Plot Window
 The display and analysis of the green Doppler line should now closely match the original DRMLogPlotter.
 
-- Setup -> Basic Setup Parameters -> Dream and Receiver Configuration
+- Setup -> Basic Setup Parameters -> Dream and Receiver Configuration  
 The "Hamlib NET rigctl" transceiver/RX selection should now work successfully with rigctl servers.
 Frequency switching in the "SDR++" software can now be successfully controlled via the DRMLogPlotter-rebuild's rigctl server setting.
 
