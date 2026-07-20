@@ -110,10 +110,12 @@ New improvements have been implemented in the code!
 - Main GUI -> Main Plot Window  
 The display and analysis of the green Doppler line should now closely match the original DRMLogPlotter.
 
-- Setup -> Basic Setup Parameters -> Dream and Receiver Configuration
-  
+- Setup -> Basic Setup Parameters -> Dream and Receiver Configuration  
 The "Hamlib NET rigctl" transceiver/RX selection should now work successfully with rigctl servers.
-Frequency switching in the "SDR++" software can now be successfully controlled via the DRMLogPlotter-rebuild's rigctl server setting.
+
+Once you have selected "Hamlib NET rigctl" from the Hamlib list,  
+DRMLogPlotter continuously communicates with a rigctl server.  
+A functional test with SDR++ was successful.
 
 - Main GUI -> DRM Mode Used  
 The DRM mode analysis has been further refined.
