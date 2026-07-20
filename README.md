@@ -104,6 +104,7 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 
 
+  
 #### Update 20.July 2026
 
 Version 1.00 has been released.
