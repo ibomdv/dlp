@@ -138,7 +138,7 @@ Successful connections via selection from the Hamlib list using USB or network c
 - Yaesu FT-891 (RX modified for DRM)
 - Kenwood TS-2000 (RX modified for DRM)
 - AirSpy with plugin (simulates Kenwood TS-2000)
-- SDRPlay Duo with SDR++ (rigctl server)
+- SDRPlay RSPDuo with SDR++ Software (rigctl server)
   
 Hope it works for you, too
 
