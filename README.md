@@ -78,8 +78,6 @@ Older devices can also be controlled remotely. Please also note the tip below, w
 
 Status LEDs were introduced to provide the user with an overview of whether all functions are operating correctly.  
 
- - ##### Updated Picture 16.07.2026
-
 
 <img width="758" height="786" alt="Dream and RX Config - new - b" src="https://github.com/user-attachments/assets/d7f69535-3789-41e7-af34-d26c4c0a4da7" />
 
