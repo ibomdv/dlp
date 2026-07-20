@@ -39,13 +39,19 @@ This code can also be compiled for all common operating systems.
 ##### New ideas:
 
 1) You can launch the DReaM decoder software from within DRMLogPlotter-rebuild.
-2) You can launch DReaM and simultaneously have a log created using the correct logging frequency.
-3) You can launch DReaM via a timer event.
-4) You can launch DReaM via a timer event with logging and live auto-plotting enabled.
-5) Up to this point, a receiver connection is not strictly necessary.
 
-6) For all these functions, you can remotely tune your receiver to a specific frequency.
-7) You can use a timer event to switch the receiver frequency at a time of your choosing and launch DReaM with or without logging.
+2) You can launch DReaM while simultaneously generating a log at the correct logging frequency.
+
+3) You can launch DReaM via a timer event.
+
+4) You can launch DReaM via a timer event with logging and automatic live graph generation enabled.  
+A connection to the receiver is not strictly necessary up to this point.
+
+5) You can connect your RX/TRX to DRMLogPlotter via USB or a network connection.
+
+6) This allows you to remotely tune your receiver to a specific frequency.
+
+7) You can use a timer event to change the receiver frequency at a time of your choice and launch DReaM with or without logging.
 
 
 ###### But step by step:
