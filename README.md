@@ -53,6 +53,8 @@ A connection to the receiver is not strictly necessary up to this point.
 
 7) You can use a timer event to change the receiver frequency at a time of your choice and launch DReaM with or without logging.  
 
+
+  
 ###### But step by step:
 
 One new idea was the ability to launch the DReaM decoder software from within *dlp*— either manually or via a timer event. 
