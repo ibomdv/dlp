@@ -235,7 +235,7 @@ The AppImage contains all components. You can find the "Screenshot" and "Logs" f
 In your file manager, go to View -> "Show Hidden Files" click yes to locate the `.local` folder within your "pc" directory.
 
 
-### Quick Start (update 07.July 2026):
+### Quick Start:
 
 
 #### Windows 10/11 –>
