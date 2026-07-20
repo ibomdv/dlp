@@ -113,8 +113,7 @@ The display and analysis of the green Doppler line should now closely match the 
 - Setup -> Basic Setup Parameters -> Dream and Receiver Configuration  
 The "Hamlib NET rigctl" transceiver/RX selection should now work successfully with rigctl servers.
 
-Once you have selected "Hamlib NET rigctl" from the Hamlib list,  
-DRMLogPlotter continuously communicates with a rigctl server.  
+Once you have selected "Hamlib NET rigctl" from the Hamlib list, DRMLogPlotter continuously communicates with a rigctl server.  
 A functional test with SDR++ was successful.
 
 - Main GUI -> DRM Mode Used  
@@ -126,9 +125,6 @@ Timer events should now start correctly even after midnight.
 
 - Main GUI -> Frame Color  
 Color settings for the frame and scale display in the main plot window have been optimized for the "Gray" theme.
-
-
-
 
  
 #### Update from 16.07.2026
