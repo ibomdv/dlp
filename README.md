@@ -130,7 +130,9 @@ The "Hamlib NET rigctl" transceiver/RX selection should now work successfully wi
 Once you have selected "Hamlib NET rigctl" from the Hamlib list, DRMLogPlotter continuously communicates with a rigctl server.  
 
 
-Successful connection verified:
+
+Successful connections via selection from the Hamlib list using USB or network connectivity have been confirmed:  
+
 - Icom IC-7300
 - Icom IC-705
 - Yaesu FT-891 (RX modified for DRM)
