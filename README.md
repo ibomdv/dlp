@@ -1,8 +1,7 @@
-### drmlogplotter - rebuild - experimental (v.0.99c)
+### drmlogplotter - rebuild - Version 1.00 is released
 
+##### Update 20.July.2026
 
-
-##### update 16.July.2026
 
 This rebuild is based on the original DRM Log Plotter.
 
@@ -74,8 +73,10 @@ The ability to connect an SDR radio is also an interesting feature; the software
 
 Older devices can also be controlled remotely. Please also note the tip below, which describes how the "FLRig" program can act as a bridge.
 
-Status LEDs were introduced to provide the user with an overview of whether all functions are operating correctly.    
+Status LEDs were introduced to provide the user with an overview of whether all functions are operating correctly.  
+
  - ##### Updated Picture 16.07.2026
+
 
 <img width="758" height="786" alt="Dream and RX Config - new - b" src="https://github.com/user-attachments/assets/d7f69535-3789-41e7-af34-d26c4c0a4da7" />
 
@@ -102,7 +103,34 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 <img width="433" height="167" alt="Main Log with Audio Codec" src="https://github.com/user-attachments/assets/6bd1ee1e-7e0a-413f-88ce-f039ca1f4bc6" />
 
 
-  
+
+#### Update 20.July 2026
+
+Version 1.00 has been released.
+
+New improvements have been implemented in the code!
+
+- Main GUI -> Main Plot Window
+The display and analysis of the green Doppler line should now closely match the original DRMLogPlotter.
+
+- Setup -> Basic Setup Parameters -> Dream and Receiver Configuration
+The "Hamlib NET rigctl" transceiver/RX selection should now work successfully with rigctl servers.
+Frequency switching in the "SDR++" software can now be successfully controlled via the DRMLogPlotter-rebuild's rigctl server setting.
+
+- Main GUI -> DRM Mode Used
+The DRM mode analysis has been further refined.
+
+- Set Event -> Dream Start & Schedule Dialog
+The "midnight logic" has been completely overhauled.
+Timer events should now start correctly even after midnight.
+
+- Main GUI -> Frame Color
+Color settings for the frame and scale display in the main plot window have been optimized for the "Gray" theme.
+
+
+
+
+ 
 #### Update from 16.07.2026
 
 - There are significant improvements once again:
@@ -111,6 +139,12 @@ RX parameters for HamLib/rigCTL can now be specifically configured.
 
 - The processing of the dreamloglong.csv file has been revised.
 The "empty plot" issue should now be resolved.
+
+
+
+
+
+
 
 ##### Update from 07. July 2026
 This update brings improvements, fixes, and new features!
