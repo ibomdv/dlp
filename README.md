@@ -129,7 +129,7 @@ The "Hamlib NET rigctl" transceiver/RX selection should now work successfully wi
 
 Once you have selected "Hamlib NET rigctl" from the Hamlib list, DRMLogPlotter continuously communicates with a rigctl server.  
 
-
+  
 
 Successful connections via selection from the Hamlib list using USB or network connectivity have been confirmed:  
 
