@@ -51,8 +51,7 @@ A connection to the receiver is not strictly necessary up to this point.
 
 6) This allows you to remotely tune your receiver to a specific frequency.
 
-7) You can use a timer event to change the receiver frequency at a time of your choice and launch DReaM with or without logging.
-
+7) You can use a timer event to change the receiver frequency at a time of your choice and launch DReaM with or without logging.  
 
 ###### But step by step:
 
