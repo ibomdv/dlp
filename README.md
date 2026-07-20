@@ -66,11 +66,7 @@ The auto-plot function can be triggered manually or via a timer event.
 
 
 
-<img width="649" height="521" alt="Dream-Start Schedule - Window" src="https://github.com/user-attachments/assets/7235b32b-b752-4c6e-934c-5a03296daadf" />
-
-
-
-
+<img width="649" height="521" alt="Dream-Start Schedule - Window" src="https://github.com/user-attachments/assets/7235b32b-b752-4c6e-934c-5a03296daadf" />  
 
 Another new idea is the ability to connect the RX (transceiver) to *dlp* via Hamlib/RigCTL.
 
