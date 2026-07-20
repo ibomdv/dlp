@@ -130,13 +130,14 @@ Timer events should now start correctly even after midnight.
 Color settings for the frame and scale display in the main plot window have been optimized for the "Gray" theme.
 
 Successful connection verified:
-Icom IC-7300
-Icom IC-705
-Yaesu FT-891 (RX modified for DRM)
-Kenwood TS-2000 (RX modified for DRM)
-AirSpy with plugin (simulates Kenwood TS-2000)
-SDRPlay Duo with SDR++ (rigctl server)
-(Hope it works for you, too)
+- Icom IC-7300
+- Icom IC-705
+- Yaesu FT-891 (RX modified for DRM)
+- Kenwood TS-2000 (RX modified for DRM)
+- AirSpy with plugin (simulates Kenwood TS-2000)
+- SDRPlay Duo with SDR++ (rigctl server)
+  
+Hope it works for you, too
 
  
 #### Update from 16.07.2026
