@@ -174,18 +174,20 @@ DRMLogPlotter.exe should be run as administrator to ensure access to the DReaM d
 #### Linux (should run on Linux Mint and Ubuntu)
 Copy DRMLogPlotter_Linux and DRMLogPlotter_Audio_Linux  
 into the same directory.  
-Before launching for the first time, #####rename DRMLogPlotter_Audio_Linux to DRMLogPlotter_Audio.
+Before launching for the first time, rename DRMLogPlotter_Audio_Linux to DRMLogPlotter_Audio.
 
 #### Raspberry Pi
 Copy DRMLogPlotter_Raspi and DRMLogPlotter_Audio_Raspi  
 into the same directory.  
 Before launching for the first time, rename DRMLogPlotter_Audio_Raspi to DRMLogPlotter_Audio.
 
-#### AppImages
+#### AppImages-Linux
 Copy DRMLogPlotter_Linux.AppImage and DRMLogPlotter_Audio_Linux  
 into the same directory.  
 Before launching for the first time, rename DRMLogPlotter_Audio_Linux to DRMLogPlotter_Audio.
 
+
+#### AppImages-Raspberry Pi
 Copy DRMLogPlotter_Raspi.AppImage and DRMLogPlotter_Audio_Raspi  
 into the same directory.  
 Before launching for the first time, rename DRMLogPlotter_Audio_Raspi to DRMLogPlotter_Audio.
