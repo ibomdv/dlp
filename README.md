@@ -1,7 +1,8 @@
-## DRMLogPlotter - rebuild ... Version 1.00 is released
+## DRMLogPlotter - rebuild ... Version 1.10 is released
 
-##### Update 20.July.2026 see below
+##### Update 28.July.2026 see below  
 
+Please also note the very important information regarding the operation of the individual files on Windows, Linux (AMD), and Raspberry Pi (ARM).
 
 This rebuild is based on the original DRM Log Plotter.
 
