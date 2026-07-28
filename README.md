@@ -105,56 +105,19 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 #### Update 28.July 2026
 
-Very important information before you start!
+You will find very important information below regarding operation with the DRMLogPlotter-rebuild.
 
-
-
-
-
+An attempt was made to optimize reading the audio code information from the PC screen, though this remains experimental.  
+The main GUI layout has been corrected for Linux (including AppImage and Raspberry Pi);  
+it should now closely match the view in Windows 11.  
+"x11/xwayland" and "Wayland" radio buttons have been added to the Basic Settings,  
+with "x11/xwayland" selected by default.
+This is also strictly experimental—an attempt to better understand the issues involved.
 
 
 
   
-#### Update 20.July 2026
-
-Version 1.00 has been released.
-
-New improvements have been implemented in the code!
-
-- Main GUI -> Main Plot Window  
-The display and analysis of the green Doppler line should now closely match the original DRMLogPlotter.
-
-- Main GUI -> DRM Mode Used  
-The DRM mode analysis has been further refined.
-
-- Set Event -> Dream Start & Schedule Dialog  
-The "midnight logic" has been completely overhauled.
-Timer events should now start correctly even after midnight.
-
-- Main GUI -> Frame Color  
-Color settings for the frame and scale display in the main plot window have been optimized for the "Gray" theme.
-
-- Setup -> Basic Setup Parameters -> Dream and Receiver Configuration  
-The "Hamlib NET rigctl" transceiver/RX selection should now work successfully with rigctl servers.
-
-Once you have selected "Hamlib NET rigctl" from the Hamlib list, DRMLogPlotter continuously communicates with a rigctl server.  
-
-  
-
-Successful connections via selection from the Hamlib list using USB or network connectivity have been confirmed:  
-
-- Icom IC-7300
-- Icom IC-705
-- Yaesu FT-891 (RX modified for DRM)
-- Kenwood TS-2000 (RX modified for DRM)
-- AirSpy with plugin (simulates Kenwood TS-2000)
-- SDRPlay RSPDuo with SDR++ Software (rigctl server)
-  
-Hope it works for you, too  
-
-
-##### For more information on past updates, please refer to the "Update-Information.pdf"  
-
+##### Update 20.July 2026 see in Update.pdf
 
 
 
