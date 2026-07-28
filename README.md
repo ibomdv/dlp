@@ -1,4 +1,3 @@
-## DRMLogPlotter - rebuild  
 
 ### Version 1.10 is released
 
@@ -161,33 +160,7 @@ Hope it works for you, too
 
 ### Quick Start:
 
-
-#### Windows 10/11 –>
-
-No installation is required. Create a new directory under C:\, e.g., named `drmlogplotter`.
-Copy both `.exe` files, as well as `drmtransmittersites.txt` and `drmlogplotter_help.txt`, into this new directory.
-##### Important for Windows 10/11: Run the `drm_log_plotter.exe` file as an administrator. Otherwise, `drmlogplotter` cannot access the DReaM decoder software directory!
-After launching `drmlogplotter`, the `.json` file and the `Screenshots` and `Logfiles` folders will be created there.
-The new folders are created when the respective function is used for the first time.
-
-
-#### Linux 
-
-##### 1) AppImage:
-Use the AppImage and follow the instructions in the help text.
-You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json`,
-
-##### at `/home/pc/.local/share/drmlogplotter`.
-
-In this folder copy also "drmtransmittersites.txt" and drmlogplotter_help.txt.
-
-##### 2) Linux Bin:
-The `DRMLogplotter.bin` and the `DRMLogPlotter_Audio.bin` can be copied to a directory and folder of your choice.
-It will then operate from that directory.
-Also, copy the files `drmtransmittersite.txt` and `drmlogplotter_help.txt` into the same directory.
-You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json` here.
-In principle, the process is the same as on Windows 10/11.
-
+## DRMLogPlotter - rebuild  
 
 #### Python:
 Copy all 3 (!) Python files into the same directory.
@@ -229,6 +202,37 @@ Testing was conducted using a Full HD screen resolution (1920 × 1080 pixels / 1
 During testing, it was noted that using turquoise text color in the DReaM label can be advantageous.
 
 It is all experimental, but it is very interesting to see how well it can work.
+
+
+
+
+
+#### Windows 10/11 –>
+
+No installation is required. Create a new directory under C:\, e.g., named `drmlogplotter`.
+Copy both `.exe` files, as well as `drmtransmittersites.txt` and `drmlogplotter_help.txt`, into this new directory.
+##### Important for Windows 10/11: Run the `drm_log_plotter.exe` file as an administrator. Otherwise, `drmlogplotter` cannot access the DReaM decoder software directory!
+After launching `drmlogplotter`, the `.json` file and the `Screenshots` and `Logfiles` folders will be created there.
+The new folders are created when the respective function is used for the first time.
+
+
+#### Linux 
+
+##### 1) AppImage:
+Use the AppImage and follow the instructions in the help text.
+You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json`,
+
+##### at `/home/pc/.local/share/drmlogplotter`.
+
+In this folder copy also "drmtransmittersites.txt" and drmlogplotter_help.txt.
+
+##### 2) Linux Bin:
+The `DRMLogplotter.bin` and the `DRMLogPlotter_Audio.bin` can be copied to a directory and folder of your choice.
+It will then operate from that directory.
+Also, copy the files `drmtransmittersite.txt` and `drmlogplotter_help.txt` into the same directory.
+You can find the "Screenshot" and "Logs" folders, as well as `drmplotter_cfg.json` here.
+In principle, the process is the same as on Windows 10/11.
+
 
 
 
