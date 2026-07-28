@@ -105,7 +105,7 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 #### Update 28.July 2026
 
-You will find very important information below regarding operation with the DRMLogPlotter-rebuild.
+You will find very important information below in QUICK-START regarding operation with the DRMLogPlotter-rebuild.
 
 - An attempt was made to optimize reading the audio code information from the PC screen, though this remains experimental.  
 - The main GUI layout has been corrected for Linux (including AppImage and Raspberry Pi);  
