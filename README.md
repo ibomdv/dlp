@@ -130,28 +130,36 @@ Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
 #### Windows
 Copy DRMLogPlotter.exe and DRMLogPlotter_Audio.exe  
 into the same directory.  
-DRMLogPlotter.exe should be run as administrator to ensure access to the DReaM directory.
+DRMLogPlotter.exe should be run as administrator to ensure access to the DReaM directory.  
+Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
 
 #### Linux (should run on Linux Mint and Ubuntu)
 Copy DRMLogPlotter_Linux and DRMLogPlotter_Audio_Linux  
 into the same directory.  
-Before launching for the first time, rename DRMLogPlotter_Audio_Linux to DRMLogPlotter_Audio.
+Before launching for the first time, rename DRMLogPlotter_Audio_Linux to DRMLogPlotter_Audio.  
+Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
 
 #### Raspberry Pi
 Copy DRMLogPlotter_Raspi and DRMLogPlotter_Audio_Raspi  
 into the same directory.  
-Before launching for the first time, rename DRMLogPlotter_Audio_Raspi to DRMLogPlotter_Audio.
+Before launching for the first time, rename DRMLogPlotter_Audio_Raspi to DRMLogPlotter_Audio.  
+Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
 
 #### AppImages-Linux
 Copy DRMLogPlotter_Linux.AppImage and DRMLogPlotter_Audio_Linux  
 into the same directory.  
-Before launching for the first time, rename DRMLogPlotter_Audio_Linux to DRMLogPlotter_Audio.
+Before launching for the first time, rename DRMLogPlotter_Audio_Linux to DRMLogPlotter_Audio.  
+For drmtransmittersite.txt and drmlogplotter_help.txt see extra Information below.
 
 
 #### AppImages-Raspberry Pi
 Copy DRMLogPlotter_Raspi.AppImage and DRMLogPlotter_Audio_Raspi  
 into the same directory.  
-Before launching for the first time, rename DRMLogPlotter_Audio_Raspi to DRMLogPlotter_Audio.
+Before launching for the first time, rename DRMLogPlotter_Audio_Raspi to DRMLogPlotter_Audio.  
+For drmtransmittersite.txt and drmlogplotter_help.txt see extra Information below.  
+
+
+  
 
 Once you have selected the appropriate version for your OS, audio codec detection should also work.
 The DReaM label window should remain fully visible on the screen for one minute. Naturally, this requires successful DRM radio reception.
