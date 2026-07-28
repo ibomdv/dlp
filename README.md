@@ -108,42 +108,6 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 Very important information before you start!
 
-#### Windows
-Copy DRMLogPlotter.exe and
-DRMLogPlotter_Audio.exe
-into the same directory.
-DRMLogPlotter.exe should be run as administrator to ensure access to the DReaM directory.
-
-#### Linux (should run on Linux Mint and Ubuntu)
-Copy DRMLogPlotter_Linux and
-DRMLogPlotter_Audio_Linux
-into the same directory.
-Before launching for the first time, rename DRMLogPlotter_Audio_Linux to DRMLogPlotter_Audio.
-
-#### Raspberry Pi
-Copy DRMLogPlotter_Raspi and
-DRMLogPlotter_Audio_Raspi
-into the same directory.
-Before launching for the first time, rename DRMLogPlotter_Audio_Raspi to DRMLogPlotter_Audio.
-
-#### AppImages
-Copy DRMLogPlotter_Linux.AppImage and
-DRMLogPlotter_Audio_Linux
-into the same directory.
-Before launching for the first time, rename DRMLogPlotter_Audio_Linux to DRMLogPlotter_Audio.
-
-Copy DRMLogPlotter_Raspi.AppImage and
-DRMLogPlotter_Audio_Raspi
-into the same directory.
-Before launching for the first time, rename DRMLogPlotter_Audio_Raspi to DRMLogPlotter_Audio.
-
-Once you have selected the appropriate version for your OS, audio codec detection should also work.
-The DReaM label window should remain fully visible on the screen for one minute. Naturally, this requires successful DRM radio reception.
-The software checks for up to 3 minutes to see if it can read the information.
-Testing was conducted using a Full HD screen resolution (1920 × 1080 pixels / 1080p), including on the Raspberry Pi.
-During testing, it was noted that using turquoise text color in the DReaM label can be advantageous.
-
-It is all experimental, but it is very interesting to see how well it can work.
 
 
 
@@ -229,6 +193,42 @@ In principle, the process is the same as on Windows 10/11.
 Copy all 3 (!) Python files into the same directory.
 Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
 
+#### Windows
+Copy DRMLogPlotter.exe and
+DRMLogPlotter_Audio.exe
+into the same directory.
+DRMLogPlotter.exe should be run as administrator to ensure access to the DReaM directory.
+
+#### Linux (should run on Linux Mint and Ubuntu)
+Copy DRMLogPlotter_Linux and
+DRMLogPlotter_Audio_Linux
+into the same directory.
+Before launching for the first time, rename DRMLogPlotter_Audio_Linux to DRMLogPlotter_Audio.
+
+#### Raspberry Pi
+Copy DRMLogPlotter_Raspi and
+DRMLogPlotter_Audio_Raspi
+into the same directory.
+Before launching for the first time, rename DRMLogPlotter_Audio_Raspi to DRMLogPlotter_Audio.
+
+#### AppImages
+Copy DRMLogPlotter_Linux.AppImage and
+DRMLogPlotter_Audio_Linux
+into the same directory.
+Before launching for the first time, rename DRMLogPlotter_Audio_Linux to DRMLogPlotter_Audio.
+
+Copy DRMLogPlotter_Raspi.AppImage and
+DRMLogPlotter_Audio_Raspi
+into the same directory.
+Before launching for the first time, rename DRMLogPlotter_Audio_Raspi to DRMLogPlotter_Audio.
+
+Once you have selected the appropriate version for your OS, audio codec detection should also work.
+The DReaM label window should remain fully visible on the screen for one minute. Naturally, this requires successful DRM radio reception.
+The software checks for up to 3 minutes to see if it can read the information.
+Testing was conducted using a Full HD screen resolution (1920 × 1080 pixels / 1080p), including on the Raspberry Pi.
+During testing, it was noted that using turquoise text color in the DReaM label can be advantageous.
+
+It is all experimental, but it is very interesting to see how well it can work.
 
 
 
