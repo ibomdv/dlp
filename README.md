@@ -107,7 +107,7 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 You will find very important information below in QUICK-START regarding operation with the DRMLogPlotter-rebuild.
   
-1) There is now also a .bin file and an AppImage for Raspberry OS "Trixie"!
+1) You can now also find a DRMLogPltoter.bin and an AppImage for Raspberry Pi OS "Trixie" under "Releases"!  
 Initial tests have been successful.
 2) An attempt was made to optimize reading the audio code information from the PC screen, though this remains experimental.  
 3) The main GUI layout has been corrected for Linux (including AppImage and Raspberry Pi);  
