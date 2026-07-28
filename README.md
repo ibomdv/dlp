@@ -1,5 +1,5 @@
 
-### Version 1.10 is released
+### Version 1.10 is released (28.July 2026)
 
 ##### Update 28.July.2026 see below  
 
