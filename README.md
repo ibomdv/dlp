@@ -125,25 +125,25 @@ with "x11/xwayland" selected by default.
   
 #### Python:
 Copy all 3 (!) Python files into the same directory.  
-Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
+Copy the files drmtransmittersites.txt and drmlogplotter_help.txt into this directory as well.
 
 #### Windows
 Copy DRMLogPlotter.exe and DRMLogPlotter_Audio.exe  
 into the same directory.  
 DRMLogPlotter.exe should be run as administrator to ensure access to the DReaM directory.  
-Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
+Copy the files drmtransmittersites.txt and drmlogplotter_help.txt into this directory as well.
 
 #### Linux (should run on Linux Mint and Ubuntu)
 Copy DRMLogPlotter_Linux and DRMLogPlotter_Audio_Linux  
 into the same directory.  
 Before launching for the first time, rename DRMLogPlotter_Audio_Linux to DRMLogPlotter_Audio.  
-Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
+Copy the files drmtransmittersites.txt and drmlogplotter_help.txt into this directory as well.
 
 #### Raspberry Pi
 Copy DRMLogPlotter_Raspi and DRMLogPlotter_Audio_Raspi  
 into the same directory.  
 Before launching for the first time, rename DRMLogPlotter_Audio_Raspi to DRMLogPlotter_Audio.  
-Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
+Copy the files drmtransmittersites.txt and drmlogplotter_help.txt into this directory as well.
 
 #### AppImages-Linux
 Copy DRMLogPlotter_Linux.AppImage and DRMLogPlotter_Audio_Linux  
