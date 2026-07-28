@@ -109,7 +109,6 @@ You will find very important information below in QUICK-START regarding operatio
   
 - There is now also a .bin file and an AppImage for Raspberry OS "Trixie"!
 Initial tests have been successful.
-
 - An attempt was made to optimize reading the audio code information from the PC screen, though this remains experimental.  
 - The main GUI layout has been corrected for Linux (including AppImage and Raspberry Pi);  
 it should now closely match the view in Windows 11.  
