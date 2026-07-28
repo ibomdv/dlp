@@ -114,9 +114,7 @@ it should now closely match the view in Windows 11.
 with "x11/xwayland" selected by default.
 This is also strictly experimental—an attempt to better understand the issues involved.
 
-
-
-  
+ 
 ##### Update 20.July 2026 see in Update.pdf
 
 
