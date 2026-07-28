@@ -161,12 +161,12 @@ For drmtransmittersite.txt and drmlogplotter_help.txt see extra Information belo
 
 ##### Additional information 
 
-Once you have selected the appropriate version for your OS, audio codec detection should also work.  
-The DReaM label window should remain fully visible on the screen for one minute.  
+- Once you have selected the appropriate version for your OS, audio codec detection should also work.  
+- The DReaM label window should remain fully visible on the screen for one minute.  
 Naturally, this requires successful DRM radio reception.  
-The software checks for up to 3 minutes to see if it can read the information.  
-Testing was conducted using a Full HD screen resolution (1920 × 1080 pixels / 1080p), including on the Raspberry Pi.  
-During testing, it was noted that using turquoise text color in the DReaM label can be advantageous.  
+- The software checks for up to 3 minutes to see if it can read the information.  
+- Testing was conducted using a Full HD screen resolution (1920 × 1080 pixels / 1080p), including on the Raspberry Pi.  
+- During testing, it was noted that using turquoise text color in the DReaM label can be advantageous.  
 
 It is all experimental, but it is very interesting to see how well it can work.
 
