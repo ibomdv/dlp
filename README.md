@@ -159,7 +159,7 @@ Before launching for the first time, rename DRMLogPlotter_Audio_Raspi to DRMLogP
 For drmtransmittersite.txt and drmlogplotter_help.txt see extra Information below.  
 
 
-  
+##### Additional information 
 
 Once you have selected the appropriate version for your OS, audio codec detection should also work.
 The DReaM label window should remain fully visible on the screen for one minute. Naturally, this requires successful DRM radio reception.
