@@ -1,6 +1,6 @@
-## DRMLogPlotter - rebuild  
+#### DRMLogPlotter - rebuild  
 
-# Version 1.10 is released
+Version 1.10 is released
 
 ##### Update 28.July.2026 see below  
 
