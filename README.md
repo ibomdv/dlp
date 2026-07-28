@@ -107,14 +107,14 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 You will find very important information below in QUICK-START regarding operation with the DRMLogPlotter-rebuild.
   
-- There is now also a .bin file and an AppImage for Raspberry OS "Trixie"!
+1) There is now also a .bin file and an AppImage for Raspberry OS "Trixie"!
 Initial tests have been successful.
-- An attempt was made to optimize reading the audio code information from the PC screen, though this remains experimental.  
-- The main GUI layout has been corrected for Linux (including AppImage and Raspberry Pi);  
+2) An attempt was made to optimize reading the audio code information from the PC screen, though this remains experimental.  
+3) The main GUI layout has been corrected for Linux (including AppImage and Raspberry Pi);  
 it should now closely match the view in Windows 11.  
-- "x11/xwayland" and "Wayland" radio buttons have been added to the Basic Settings,  
+4) "x11/xwayland" and "Wayland" radio buttons have been added to the Basic Settings,  
 with "x11/xwayland" selected by default.
-- This is also strictly experimental—an attempt to better understand the issues involved.
+5) This is also strictly experimental—an attempt to better understand the issues involved.
 
  
 ##### Other Updates see in .pdf
