@@ -107,12 +107,12 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 You will find very important information below regarding operation with the DRMLogPlotter-rebuild.
 
-An attempt was made to optimize reading the audio code information from the PC screen, though this remains experimental.  
-The main GUI layout has been corrected for Linux (including AppImage and Raspberry Pi);  
+- An attempt was made to optimize reading the audio code information from the PC screen, though this remains experimental.  
+- The main GUI layout has been corrected for Linux (including AppImage and Raspberry Pi);  
 it should now closely match the view in Windows 11.  
-"x11/xwayland" and "Wayland" radio buttons have been added to the Basic Settings,  
+- "x11/xwayland" and "Wayland" radio buttons have been added to the Basic Settings,  
 with "x11/xwayland" selected by default.
-This is also strictly experimental—an attempt to better understand the issues involved.
+- This is also strictly experimental—an attempt to better understand the issues involved.
 
  
 ##### Update 20.July 2026 see in Update.pdf
