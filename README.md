@@ -160,7 +160,9 @@ Hope it works for you, too
 
 ### Quick Start:
 
-## DRMLogPlotter - rebuild  
+## Important Information  
+  
+The following explains how to create a new directory. In all cases, the drmtrxsite.txt and help.txt files must also be copied into it.
 
 #### Python:
 Copy all 3 (!) Python files into the same directory.  
