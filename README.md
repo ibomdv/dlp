@@ -162,8 +162,6 @@ Hope it works for you, too
 
 ## Important Information  
   
-The following explains how to create a new directory. In all cases, the drmtrxsite.txt and help.txt files must also be copied into it.
-
 #### Python:
 Copy all 3 (!) Python files into the same directory.  
 Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
