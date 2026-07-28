@@ -163,35 +163,30 @@ Hope it works for you, too
 ## DRMLogPlotter - rebuild  
 
 #### Python:
-Copy all 3 (!) Python files into the same directory.
+Copy all 3 (!) Python files into the same directory.  
 Do the same for drmtransmittersite.txt and drmlogplotter_help.txt.
 
 #### Windows
-Copy DRMLogPlotter.exe and
-DRMLogPlotter_Audio.exe
+Copy DRMLogPlotter.exe and DRMLogPlotter_Audio.exe  
 into the same directory.
 DRMLogPlotter.exe should be run as administrator to ensure access to the DReaM directory.
 
 #### Linux (should run on Linux Mint and Ubuntu)
-Copy DRMLogPlotter_Linux and
-DRMLogPlotter_Audio_Linux
+Copy DRMLogPlotter_Linux and DRMLogPlotter_Audio_Linux  
 into the same directory.
 Before launching for the first time, rename DRMLogPlotter_Audio_Linux to DRMLogPlotter_Audio.
 
 #### Raspberry Pi
-Copy DRMLogPlotter_Raspi and
-DRMLogPlotter_Audio_Raspi
+Copy DRMLogPlotter_Raspi and DRMLogPlotter_Audio_Raspi  
 into the same directory.
 Before launching for the first time, rename DRMLogPlotter_Audio_Raspi to DRMLogPlotter_Audio.
 
 #### AppImages
-Copy DRMLogPlotter_Linux.AppImage and
-DRMLogPlotter_Audio_Linux
+Copy DRMLogPlotter_Linux.AppImage and DRMLogPlotter_Audio_Linux  
 into the same directory.
 Before launching for the first time, rename DRMLogPlotter_Audio_Linux to DRMLogPlotter_Audio.
 
-Copy DRMLogPlotter_Raspi.AppImage and
-DRMLogPlotter_Audio_Raspi
+Copy DRMLogPlotter_Raspi.AppImage and DRMLogPlotter_Audio_Raspi  
 into the same directory.
 Before launching for the first time, rename DRMLogPlotter_Audio_Raspi to DRMLogPlotter_Audio.
 
