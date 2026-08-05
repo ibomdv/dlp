@@ -115,8 +115,8 @@ A frequency display has been added to provide a clearer overview, showing the ac
 This feature has been added.  
 The official DRMSchedule.ini file can now be loaded.
 Clicking an entry in the list causes DRMLogPlotter to switch to the desired frequency.
-Even without remote RX control, the selected frequency is conveniently adopted as the log frequency.
-A display has been added to show the user the current DRM radio list.  
+Even without remote RX control, the selected frequency is conveniently adopted as the log frequency.  
+A display has been added to show the user the current DRM radio list.   
 
 4) The summary view has been optimized.  
 
