@@ -111,7 +111,7 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 Frequency correction has been added for generating DReaM logs when operating with SDR radio software set to USB/LSB modes with a 10 kHz offset.
 A frequency display has been added to provide a clearer overview, showing the actual frequency currently set via rigctl.  
 
-2) DRM Radio List
+2) DRM Radio List  
 This feature has been added.  
 The official DRMSchedule.ini file can now be loaded.
 Clicking an entry in the list causes DRMLogPlotter to switch to the desired frequency.
