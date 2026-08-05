@@ -104,6 +104,15 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 <img width="433" height="167" alt="Main Log with Audio Codec" src="https://github.com/user-attachments/assets/6bd1ee1e-7e0a-413f-88ce-f039ca1f4bc6" />
 
 
+#### New DRM-Radio-List View
+
+
+<img width="921" height="568" alt="DRM-Radio-List-Github" src="https://github.com/user-attachments/assets/20059fa8-a289-4c25-b3de-040b3cfd367d" />
+
+
+
+
+
 
 
 ## Update: August 5, 2026
