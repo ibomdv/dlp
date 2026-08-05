@@ -1,5 +1,5 @@
 
-### Version 1.10 is released (28.July 2026)
+### Version 1.21 is released (5.August 2026)
 
 ##### Update 28.July.2026 see below  
 
@@ -101,6 +101,11 @@ The rebuilt DRMLogPlotter automatically detects both the existing and the new lo
 In the latest version, this works very well across Python, Windows 11, and Linux (Ubuntu/Linux Mint).
 
 <img width="433" height="167" alt="Main Log with Audio Codec" src="https://github.com/user-attachments/assets/6bd1ee1e-7e0a-413f-88ce-f039ca1f4bc6" />
+
+
+
+
+
 
 
 ## Update 28.July 2026
