@@ -110,8 +110,6 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 #### New DRM-Radio-List View  
 
 
-<img width="923" height="501" alt="DRM-Radio-List" src="https://github.com/user-attachments/assets/f0dc3e82-0752-4a22-9569-731348767371" />
-
 
 
 
