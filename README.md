@@ -1,6 +1,3 @@
-<img width="923" height="501" alt="DRM-Radio-List" src="https://github.com/user-attachments/assets/33214c20-9e97-4aa1-a19c-8cf251c4adab" />
-<img width="923" height="501" alt="DRM-Radio-List" src="https://github.com/user-attachments/assets/e815a3f2-6a66-4b97-bcda-26bc76409558" />
-
 ### Version 1.21 is released (5.August 2026)
 
 ##### Update 05.August.2026 see below  
