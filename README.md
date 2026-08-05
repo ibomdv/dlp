@@ -105,6 +105,33 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 
 
+## Update: August 5, 2026
+
+1) SDR-RX frequency correction for reception using Hamlib-rigctl and DReaM logging  
+
+Frequency correction has been added for generating DReaM logs when operating with SDR radio software set to USB/LSB modes with a 10 kHz offset.
+A frequency display has been added to provide a clearer overview, showing the actual frequency currently set via rigctl.  
+
+2) DRM Radio List
+This feature has been added; the official DRMSchedule.ini file can now be loaded.
+Clicking an entry in the list causes DRMLogPlotter to switch to the desired frequency.
+Even without remote RX control, the selected frequency is conveniently adopted as the log frequency.
+A display has been added to show the user the current DRM radio list.  
+
+3) The summary view has been optimized.  
+
+4) The help text has been expanded and optimized.  
+
+5) Minor optimizations have been made to the window hierarchy to improve clarity for the user.  
+
+6) The main GUI view has been further optimized for Linux/Raspberry Pi.  
+
+
+
+
+
+
+
 
 
 
