@@ -1,7 +1,7 @@
 
 ### Version 1.21 is released (5.August 2026)
 
-##### Update 28.July.2026 see below  
+##### Update 05.August.2026 see below  
 
 Please also note the very important information regarding the operation of the individual files on Windows, Linux (AMD), and Raspberry Pi (ARM).
 
@@ -108,7 +108,6 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 ## Update: August 5, 2026
 
 1) SDR-RX frequency correction for reception using Hamlib-rigctl and DReaM logging  
-
 Frequency correction has been added for generating DReaM logs when operating with SDR radio software set to USB/LSB modes with a 10 kHz offset.
 A frequency display has been added to provide a clearer overview, showing the actual frequency currently set via rigctl.  
 
