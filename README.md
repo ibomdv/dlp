@@ -106,10 +106,11 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 
 ## Update: August 5, 2026
-
-1) SDR-RX frequency correction for reception using Hamlib-rigctl and DReaM logging  
-Frequency correction has been added for generating DReaM logs when operating with SDR radio software set to USB/LSB modes with a 10 kHz offset.
-A frequency display has been added to provide a clearer overview, showing the actual frequency currently set via rigctl.  
+1) SDR-RX
+Frequency correction for rigctl and adjustment for the correct DRM logging frequency.
+If DRM reception must instead be performed using USB or LSB—for instance, because the SDR software does not offer a DRM mode—
+a correction function is available.
+The offset (e.g., + or - 5 kHz) is detected, and the correct logging frequency for the DReaM log is simultaneously passed on. 
 
 2) DRM Radio List  
 This feature has been added.  
