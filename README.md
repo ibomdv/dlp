@@ -145,6 +145,7 @@ If decoding is interrupted—for example, due to signal fading—all curves drop
 7) On Linux, the font has been changed from the Tkinter default to Arial. It now looks significantly better.  
 
 8) Many other minor internal changes and improvements have also been implemented.  
+9) The releases have been updated for Windows 11, Linux Mint/Ubuntu, and Raspberry Pi (ARM).  
 We are steadily approaching the final version...  
 
 
