@@ -202,7 +202,7 @@ with "x11/xwayland" selected by default.
 
 ### Quick Start:
 
-## Important new Information (28.July 2026)
+## Important Information!
   
 #### Python:
 Copy all 3 (!) Python files into the same directory.  
