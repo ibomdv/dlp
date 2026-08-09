@@ -29,7 +29,8 @@ Green line  =  Doppler spread (Hz)
 Ochre line  =  Delay spread (ms)
 
 
-<img width="1267" height="744" alt="DRMLogPlotter-experimental" src="https://github.com/user-attachments/assets/5445cd2b-ddfd-4002-ab58-a00f57dd9e57" />
+<img width="1303" height="719" alt="Main-GUI  - Version 1 22" src="https://github.com/user-attachments/assets/036a0223-0cea-43df-9af6-96a585c7faa0" />
+
 
 
 #### The Code:
