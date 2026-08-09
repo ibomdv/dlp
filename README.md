@@ -147,7 +147,9 @@ If decoding is interrupted—for example, due to signal fading—all curves drop
 8) Many other minor internal changes and improvements have also been implemented.  
 9) The text and checkbox inputs have been optimized for "Zoom in" and "RX coordinates.  
 " Unintentional, erroneous user input is now largely prevented.
-11) The releases have been updated for Windows 11, Linux Mint/Ubuntu, and Raspberry Pi (ARM).  
+
+11) The releases have been updated for Windows 11, Linux Mint/Ubuntu, and Raspberry Pi (ARM).
+
 We are steadily approaching the final version...  
 
 
