@@ -1,6 +1,9 @@
-### Version 1.21 is released (5.August 2026)
+### DRMLogPlotter - rebuild _ Version 1.22 is released (09. August 2026)
 
-##### Update 05.August.2026 see below  
+
+
+
+##### Update Information see below  
 
 Please also note the very important information regarding the operation of the individual files on Windows, Linux (AMD), and Raspberry Pi (ARM).
 
@@ -112,8 +115,34 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 <img width="923" height="501" alt="DRM-Radio-List" src="https://github.com/user-attachments/assets/eafecc55-9537-452e-b10c-c3e1246e5032" />
 
 
+## Update: August 5, 2026  
 
+The following improvements have been made:
 
+The radio list display has been optimized; column widths can now be adjusted individually.
+The program saves these settings and restores them after a restart.
+The selection radio buttons have been optimized; the list selection no longer reverts to "Default" but retains the last setting.
+
+The "DRM Radio List" button in the "Set-Event" dialog has been removed.
+The DRM radio list dialog window now features four buttons:
+Dream Start, Dream Stop, Start Dream with Log, and Close.
+
+You can now start logging immediately without having to switch back to the "Set-Event" dialog to select a frequency. Rigctl control has been improved: clicking a frequency in the radio list
+immediately sets it as the "log frequency" for Dream.
+
+Once logging is underway, you can close the dialog. After about a minute, the log can be manually selected in the main interface (GUI), and AutoPlot can be started.
+To stop logging, simply click "Stop Dream" in the main interface. It couldn't be easier.
+
+The visual appearance of the "TX-Site" and "Radio List" buttons in the main interface (on Windows 11) has been improved.
+
+SNR analysis has been further optimized. The red curve in the main plot window now evaluates SNR only while DReaM registers a sync pulse from the DRM radio signal. If decoding is interrupted—for example, due to signal fading—all curves drop to the zero line.
+
+The key windows now save their positions. Upon restarting the program, the windows return to their last saved locations.
+
+On Linux, the font has been changed from the Tkinter default to Arial. It now looks significantly better.
+
+Many other minor internal changes and improvements have also been implemented.
+We are steadily approaching the final version...
 
 
 
