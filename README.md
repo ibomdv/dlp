@@ -1,3 +1,5 @@
+<img width="1179" height="729" alt="Radio-List neu 2" src="https://github.com/user-attachments/assets/f7636408-7e39-4be3-8dab-8890694f5519" />
+<img width="1179" height="729" alt="Radio-List neu 2" src="https://github.com/user-attachments/assets/7010d357-d7a1-4314-9fde-4b2d3e16d54f" />
 ### DRMLogPlotter - rebuild _ Version 1.22 is released (09. August 2026)
 
 
@@ -111,7 +113,8 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 #### New DRM-Radio-List View  
 
-  
+  <img width="1179" height="729" alt="Radio-List neu 2" src="https://github.com/user-attachments/assets/fecb464d-20b5-47f7-bdb2-5818304163ff" />
+
 
 
 
