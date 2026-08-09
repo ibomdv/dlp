@@ -130,7 +130,6 @@ Dream Start, Dream Stop, Start Dream with Log, and Close.
 
 3) You can now start logging immediately without having to switch back to the "Set-Event" dialog to select a frequency.  
 Rigctl control has been improved: clicking a frequency in the radio list immediately sets it as the "log frequency" for Dream.  
-
 Once logging is underway, you can close the dialog.  
 After about a minute, the log can be manually selected in the main interface (GUI), and AutoPlot can be started.  
 To stop logging, simply click "Stop Dream" in the main interface. It couldn't be easier.  
