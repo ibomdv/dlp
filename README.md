@@ -1,4 +1,4 @@
-### DRMLogPlotter - rebuild _ 
+## DRMLogPlotter - rebuild
 
 ### Update: Version 1.24 is released (14. August 2026)  
 ( Update Text follows... Raspberry Pi - Version is still 1.22 at the moment )
