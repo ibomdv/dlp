@@ -8,7 +8,7 @@
 
 ##### Update Information see below  
 
-Please also note the very important information regarding the operation of the individual files on Windows, Linux (AMD), and Raspberry Pi (ARM).
+
 
 This rebuild is based on the original DRM Log Plotter.
 
@@ -236,7 +236,7 @@ with "x11/xwayland" selected by default.
  
 ##### Other Updates see in .pdf
 
-
+Please also note the very important information regarding the operation of the individual files on Windows, Linux (AMD), and Raspberry Pi (ARM).
 
 ### Quick Start:
 
