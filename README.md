@@ -124,6 +124,20 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
   <img width="1179" height="729" alt="Radio-List neu 2" src="https://github.com/user-attachments/assets/fecb464d-20b5-47f7-bdb2-5818304163ff" />
 
+## Update: 16. August 2026  
+
+- Starting Dream with DRMLogPlotter
+If a timer event is scheduled and the user manually starts Dream beforehand, a collision protection mechanism now intervenes:
+1) One minute before the scheduled start time, the active manual session of Dream is terminated.
+2) The timer event then starts correctly.
+3) If the user deliberately starts Dream less than 60 seconds before the scheduled start time, 
+the manual session is stopped one second prior to the timer event.
+Two seconds later, the timer event starts correctly. The user is notified via a popup message.
+
+- The position and size of the "Dream-Start and Schedule" dialog window can now be freely adjusted.
+Upon restarting DRMLogPlotter, the window opens with the settings last selected by the user.
+
+
 ## Update: 14. August 2026  
 
 Update Information Version 1.24:
