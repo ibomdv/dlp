@@ -141,7 +141,13 @@ Clicking the button again no longer opens an unnecessary additional dialog windo
 - Editing the station list: The AutoTab function is now triggered during time entry as well.
 - The "Compare-Log" function now uses the same colors as the original for the comparison (audio and SNR lines).
 - The text display for the comparison ("Compare-Text") is now clearer and—as in the original version—is located at the bottom of the chart.
-
+- Radio list and timer event: Clicking a row copies all necessary data into an available timer event row.
+- Radio list and timer event: Collision check for start and stop times implemented.
+If the end time is 00, the new start time is automatically set to 01.
+- Radio list and timer event: All timer event rows can be programmed independently.
+Clicking an event in the radio list automatically copies the data to an available row.
+- Radio list dialog ("Main GUI"): Button layout rearranged.
+- Radio list dialog ("Main GUI"): AutoPlot can now be started alongside a manual DReaM log start. Delay is approx. 30 seconds, as usual.
 
 
 ## Update: 09. August 2026 
