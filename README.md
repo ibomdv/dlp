@@ -119,6 +119,8 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 ## Update: 14. August 2026
 Update Information Version 1.24:
+- All key dialog windows save their size and last position on the PC screen.
+This ensures the overall layout is immediately clearer upon restarting.
 - Timer event now supports 4 events.
 - Timer event logic reviewed; should now run stably.
 - Added warning message in the radio list for events spanning the 00:00–24:00 timeframe; the end time must be set to 23:59.
