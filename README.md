@@ -118,12 +118,6 @@ In the latest version, this works very well across Python, Windows 11, and Linux
   <img width="1179" height="729" alt="Radio-List neu 2" src="https://github.com/user-attachments/assets/fecb464d-20b5-47f7-bdb2-5818304163ff" />
 
 ## Update: 14. August 2026
-
-
-
-
-## Update: 09. August 2026 
-
 Update Information Version 1.24:
 - Timer event now supports 4 events.
 - Timer event logic reviewed; should now run stably.
@@ -148,11 +142,7 @@ Thanks to the new audio line color, scale values ​​are now very easy to read
 
 
 
-
-
-
-
-
+## Update: 09. August 2026 
 
 The following improvements have been made:  
 
