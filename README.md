@@ -127,6 +127,7 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 ## Update: 16. August 2026  
 
 - Starting Dream with DRMLogPlotter
+
 If a timer event is scheduled and the user manually starts Dream beforehand, a collision protection mechanism now intervenes:
 1) One minute before the scheduled start time, the active manual session of Dream is terminated.
 2) The timer event then starts correctly.
