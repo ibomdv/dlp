@@ -138,7 +138,8 @@ This ensures the overall layout is immediately organized upon restarting.
 Clicking the button again no longer opens an unnecessary additional dialog window; ...instead, the dialog window closes upon the second click (toggle function).
 - Plot window and main interface frame: The color of the gray frame in the main plot window has been optimized.
 - Main interface plot window: The color of the audio line in the plot has been changed to a lighter shade. The line should now be clearly visible even in "Thin Mode."
-- Editing the station list: The AutoTab function is now triggered during time entry as well. - The "Compare-Log" function now uses the same colors as the original for the comparison (audio and SNR lines).
+- Editing the station list: The AutoTab function is now triggered during time entry as well.
+- The "Compare-Log" function now uses the same colors as the original for the comparison (audio and SNR lines).
 - The text display for the comparison ("Compare-Text") is now clearer and—as in the original version—is located at the bottom of the chart.
 
 
