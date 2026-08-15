@@ -236,9 +236,10 @@ with "x11/xwayland" selected by default.
  
 ##### Other Updates see in .pdf
 
-Please also note the very important information regarding the operation of the individual files on Windows, Linux (AMD), and Raspberry Pi (ARM).
 
-### Quick Start:
+
+### Quick Start:  
+Please also note the very important information regarding the operation of the individual files on Windows, Linux (AMD), and Raspberry Pi (ARM).
 
 ## Important Information!
   
