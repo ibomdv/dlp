@@ -117,30 +117,29 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
   <img width="1179" height="729" alt="Radio-List neu 2" src="https://github.com/user-attachments/assets/fecb464d-20b5-47f7-bdb2-5818304163ff" />
 
-## Update: 14. August 2026
-Update Information Version 1.24:
-- All key dialog windows save their size and last position on the PC screen.
-This ensures the overall layout is immediately clearer upon restarting.
-- Timer event now supports 4 events.
-- Timer event logic reviewed; should now run stably.
-- Added warning message in the radio list for events spanning the 00:00–24:00 timeframe; the end time must be set to 23:59.
-- Radio list: Double-clicking an entry copies it to the timer event.
-- Auto-plot now saves the last used interval.
-- Corrected input and handling of "RX+Ant Info" logic; new button positions.
-- Verified all LED functions.
-- Fixed bug: The "Stop Dream" button displayed red text (indicating active Dream operation) even when Dream was closed.
-- No more conflicts when restarting while Dream is already running; a notification ("Stop Dream first") now appears.
-- Corrected checkbox labels in all dialog windows.
-- Corrected checkboxes for the edit function in the radio list.
-- Screenshot files are now saved in the same format as the original LogPlotter (13750-260730-1702-1756_Nickname.png).
-- Fixed functionality of "TX-Site" and "Radio-List" buttons (in the main interface and the DRM timer event dialog).
-Clicking the button again no longer opens an unnecessary additional dialog window;
-instead, the dialog window closes on the second click (toggle function).
-- Optimized the color of the gray frame in the main plot window.
-Thanks to the new audio line color, scale values ​​are now very easy to read.
-- Minor correction in "Radio-List-Edit": The AutoTab function now triggers during time entry as well. - The "Compare-Log" function now uses the same colors for the comparison (audio and SNR lines) as the original.
-- The text display for the comparison ("Compare-Text") is now clearer and is located—as in the original version—at the bottom of the plot.
+## Update: 14. August 2026  
 
+Update Information Version 1.24:
+- All major dialog windows now save their size and last position on the PC screen.
+This ensures the overall layout is immediately organized upon restarting.
+- Timer event now supports 4 events.
+- Timer event logic revised; should now run stably.
+- Station list: Added a warning for events spanning the 00:00–24:00 time range; the end time must be set to 23:59.
+- Station list: Double-clicking an entry copies it to the timer event.
+- Auto-Plot: Now saves the last used interval. (Does not apply to timer events or log starts via the "Station List" button on the main interface).
+- RX + Ant Info: Corrected input and processing logic for "RX+Ant Info"; buttons repositioned.
+- All LED functions verified.
+- Bug fix: The "Stop Dream" button displayed red text (indicating active Dream operation) even after Dream had been closed.
+- Dream: No more conflicts when restarting while Dream is already running; a notification ("Stop Dream first") now appears.
+- Corrected checkbox labels in all dialog windows.
+- Fixed the checkbox for the edit function in the station list.
+- Screenshot files are now saved in the same format as the original LogPlotter (13750-260730-1702-1756_Nickname.png).
+- Corrected time and coordinate input functions for "TX-Site" and "Station List" (in the main interface and the DRM timer event dialog).
+Clicking the button again no longer opens an unnecessary additional dialog window; ...instead, the dialog window closes upon the second click (toggle function).
+- Plot window and main interface frame: The color of the gray frame in the main plot window has been optimized.
+- Main interface plot window: The color of the audio line in the plot has been changed to a lighter shade. The line should now be clearly visible even in "Thin Mode."
+- Editing the station list: The AutoTab function is now triggered during time entry as well. - The "Compare-Log" function now uses the same colors as the original for the comparison (audio and SNR lines).
+- The text display for the comparison ("Compare-Text") is now clearer and—as in the original version—is located at the bottom of the chart.
 
 
 
