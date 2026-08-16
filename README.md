@@ -135,8 +135,10 @@ If a timer event is scheduled and the user manually starts Dream beforehand, a c
 4) If the user deliberately starts Dream less than 60 seconds before the scheduled start time, 
 the manual session is stopped one second prior to the timer event.
 Two seconds later, the timer event starts correctly. 
-
-- The position and size of the "Dream-Start and Schedule" dialog window can now be freely adjusted.
+5) Two new colors have been added to the radio list: Red = less than 15 minutes until the program starts. Blue = the frequency currently selected.
+6) A time display in UTC format has been added.
+7) Minor visual changes to the "Radio List" dialog. The display showing the directory path for radio_list.ini is no longer permanently visible.
+8) The position and size of the "Dream-Start and Schedule" dialog window can now be freely adjusted.
 Upon restarting DRMLogPlotter, the window opens with the settings last selected by the user.
 
 
