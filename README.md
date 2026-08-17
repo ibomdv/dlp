@@ -7,7 +7,7 @@
 
 
 
-### Update: Version 1.25 is released (16. August 2026)
+#### Update: Version 1.25 is released (16. August 2026)
 (Raspberry Pi - Version is still 1.22 at the moment)  
 
 The update improves operation with DReaM software!
