@@ -1,5 +1,12 @@
 ## DRMLogPlotter - rebuild  
 
+### Update: Version 1.26 has been released (August 18, 2026)
+
+- A UTC clock has been added to the main GUI.
+- In the "Radio List" dialog (which includes a Dream startup option), the directory path for the .ini file is hidden after 6 seconds.
+
+
+
 ### Update: Version 1.25 is released (16. August 2026)
 (Raspberry Pi - Version is still 1.22 at the moment)  
 
