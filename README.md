@@ -125,7 +125,8 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 #### New DRM-Radio-List View  
 
-  <img width="1179" height="729" alt="Radio-List neu 2" src="https://github.com/user-attachments/assets/fecb464d-20b5-47f7-bdb2-5818304163ff" />
+<img width="1002" height="667" alt="Radio List 1" src="https://github.com/user-attachments/assets/97da899e-8bc5-47c4-9ebb-c11dcb25e4c0" />
+
 
 
 
