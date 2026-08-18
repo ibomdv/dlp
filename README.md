@@ -19,7 +19,10 @@ Have fun experimenting!
 ...
 
 
-This rebuild is based on the original DRM Log Plotter.
+#### This rebuild is based on the original DRM Log Plotter.  
+
+(Click on the images to enlarge them...)  
+
 
 <img width="993" height="618" alt="Original_ DRMLogPlotter " src="https://github.com/user-attachments/assets/a610350e-d9df-481b-a0e2-c12e9e471306" />
 
