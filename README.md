@@ -81,7 +81,8 @@ The logging flag is also set based on the input and reset when DReaM stops.
 The auto-plot function can be triggered manually or via a timer event.
 
 
-<img width="780" height="690" alt="Dream Start and schedule" src="https://github.com/user-attachments/assets/5552254a-4c73-4b73-9601-3e8a1a3097fe" />
+<img width="775" height="733" alt="Dream-Start and Timer-Event" src="https://github.com/user-attachments/assets/8c0f739e-6325-4e02-bf64-0b53be377207" />
+
 
 
 
