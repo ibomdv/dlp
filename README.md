@@ -1,21 +1,6 @@
 ## DRMLogPlotter - rebuild  
 
-### Update: Version 1.26 has been released (August 18, 2026)
-(Raspberry Pi - Version is still 1.22 at the moment)  
 
-- A UTC clock has been added to the main GUI.
-- In the "Radio List" dialog (which includes a Dream startup option), the directory path for the .ini file is hidden after 6 seconds.
-
-
-
-#### Update: Version 1.25 is released (16. August 2026)
-(Raspberry Pi - Version is still 1.22 at the moment)  
-
-- The update improves operation with DReaM software!
-
-...
-
- ##### More Update Information see below!
 
 ...
 
@@ -126,6 +111,23 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 #### New DRM-Radio-List View  
 
   <img width="1179" height="729" alt="Radio-List neu 2" src="https://github.com/user-attachments/assets/fecb464d-20b5-47f7-bdb2-5818304163ff" />
+
+
+
+
+### Update: Version 1.26 has been released (August 18, 2026)
+(Raspberry Pi - Version is still 1.22 at the moment)  
+
+- A UTC clock has been added to the main GUI.
+- In the "Radio List" dialog (which includes a Dream startup option), the directory path for the .ini file is hidden after 6 seconds.
+
+
+
+#### Update: Version 1.25 is released (16. August 2026)
+(Raspberry Pi - Version is still 1.22 at the moment)  
+
+- The update improves operation with DReaM software!
+
 
 ## Update: 16. August 2026  
 
