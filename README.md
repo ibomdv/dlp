@@ -1,6 +1,7 @@
 ## DRMLogPlotter - rebuild  
 
-It started as an experiment in programming with AI.
+It started as an experiment in programming with AI.  
+
 Now, it is an excellent piece of software that is very easy to get up and running:  
 
 -  "DRMLogPlotter rebuild" visualizes log files created by the free DRM (Digital Radio Mondiale) software decoder, DReaM.
