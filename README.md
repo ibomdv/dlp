@@ -35,13 +35,13 @@ Some of those ideas were not carried over into *dlp*.
 DRM Log Plotter (old and the new rebuild-experimental) reads and visualizes log files created by the free DRM (Digital Radio Mondiale) software decoder, DReaM.
 It plots the following data from a DReaM log session:
 
-Blue line   =  Decoded Audio (0 – 100%)
-Red line    =  SNR — Signal-to-Noise Ratio (dB)
-Green line  =  Doppler spread (Hz)
-Ochre line  =  Delay spread (ms)
+- Blue line   =  Decoded Audio (0 – 100%)
+- Red line    =  SNR — Signal-to-Noise Ratio (dB)
+- Green line  =  Doppler spread (Hz)
+- Ochre line  =  Delay spread (ms)
 
+<img width="1271" height="739" alt="Main GUI" src="https://github.com/user-attachments/assets/f832bb95-c2d7-495c-8ced-f9226f5f0616" />
 
-<img width="1303" height="719" alt="Main-GUI  - Version 1 22" src="https://github.com/user-attachments/assets/036a0223-0cea-43df-9af6-96a585c7faa0" />
 
 
 
