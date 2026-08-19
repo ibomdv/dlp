@@ -1,5 +1,9 @@
 ## DRMLogPlotter - rebuild  
 
+##### Information: Version 1.27 released.  
+
+(RX-TX distance calculation corrected)
+
 It started as an experiment in programming with AI.  
 
 Now, it is an excellent piece of software that is very easy to get up and running:  
