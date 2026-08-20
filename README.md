@@ -26,7 +26,9 @@ C:\DRMLogPlotter.
 - Just set DRMLogPlotter.exe to "Run as administrator" in the compatibility settings.  
 That’s all there is to it!  
 
-After launching the program, set the directory path for the DReaM decoder software and the Hamlib parameters for the remote receiver.  
+After launching the program, set the directory path for the DReaM decoder software and the Hamlib parameters for (if you have) the remote receiver.  
+
+- No remote RX available? No problem. All other features still work with Dream.
 
 You're all set.
 Have fun experimenting!
