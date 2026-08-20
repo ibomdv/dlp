@@ -15,9 +15,9 @@ Now, it is an excellent piece of software that is very easy to get up and runnin
 - Simply download DRMLogPlotter.exe and DRMLogPlotter_Audio.exe and copy them into a new directory—for example,  
 C:\DRMLogPlotter. There is no installation required.
 
-No .dll files need to be registered.
+- No .dll files need to be registered.
 
-Everything is completely new.  
+ - Everything is completely new.  
 
 
 
