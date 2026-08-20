@@ -2,7 +2,7 @@
 
 #### Information: Version 1.27 released.  
 
-(RX-TX distance calculation corrected)  
+(Update: RX-TX distance calculation corrected)  
 
 ......................................................................................
 
