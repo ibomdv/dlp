@@ -13,7 +13,9 @@ Now, it is an excellent piece of software that is very easy to get up and runnin
 -  "DRMLogPlotter rebuild" visualizes log files created by the free DRM (Digital Radio Mondiale) software decoder, DReaM.
 
 - Simply download DRMLogPlotter.exe and DRMLogPlotter_Audio.exe and copy them into a new directory—for example,  
-C:\DRMLogPlotter. There is no installation required.
+C:\DRMLogPlotter.
+
+- There is no installation required.
 
 - No .dll files need to be registered.
 
