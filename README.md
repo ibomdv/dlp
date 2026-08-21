@@ -21,7 +21,7 @@ The Autoplot LED now shows yellow ("Wait") after a manual start and subsequently
 
 ......................................................................................
 
-### DRMLogPlotter rebuild
+### DRMLogPlotter rebuild 1.28
 
 It started as an experiment in programming with AI.  
 
