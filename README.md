@@ -148,7 +148,7 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 <img width="1002" height="667" alt="Radio List 1" src="https://github.com/user-attachments/assets/97da899e-8bc5-47c4-9ebb-c11dcb25e4c0" />
 
 
-### Information: Version 1.27 released.  
+### Information: Version 1.27 has been released (19. August 2026)released.  
 
 (Update: RX-TX distance calculation corrected)  
 
