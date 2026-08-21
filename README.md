@@ -150,8 +150,6 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 
 
- 
-##### Other Updates see in .pdf
 
 
 
