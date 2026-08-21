@@ -2,6 +2,21 @@
 
 #### Information: Version 1.28 released.  
 
+- Fixed a significant logic error affecting timer events:  
+Timer events should now always start correctly.
+
+- RX Frequency Status LED:  
+A discrepancy between Hamlib/rigctl and analog operation without Hamlib has been resolved.  
+The RX frequency LED no longer lights up red when Hamlib/rigctl is disabled.  
+
+If Hamlib is enabled and setting the frequency fails, this LED continues to signal a problem by glowing red.  
+
+- Fixed an issue when starting "Dream with Log" from the Radio List dialog:  
+The Autoplot LED now shows yellow ("Wait") after a manual start and subsequently switches correctly to green.  
+
+- Corrected minor program logic steps and informational text.  
+- Fixed minor but very annoying compilation errors for Linux and Raspberry Pi.  
+
 
 
 ......................................................................................
