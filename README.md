@@ -1,6 +1,6 @@
 ## DRMLogPlotter - rebuild  
 
-#### Information: Version 1.28 released.  
+#### Information: Version 1.28 released (21.August 2026)
 
 - Fixed a significant logic error affecting timer events:  
 Timer events should now always start correctly.
@@ -9,7 +9,7 @@ Timer events should now always start correctly.
 A discrepancy between Hamlib/rigctl and analog operation without Hamlib has been resolved.  
 The RX frequency LED no longer lights up red when Hamlib/rigctl is disabled.  
 
-If Hamlib is enabled and setting the frequency fails, this LED continues to signal a problem by glowing red.  
+  If Hamlib is enabled and setting the frequency fails, this LED continues to signal a problem by glowing red.  
 
 - Fixed an issue when starting "Dream with Log" from the Radio List dialog:  
 The Autoplot LED now shows yellow ("Wait") after a manual start and subsequently switches correctly to green.  
