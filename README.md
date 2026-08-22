@@ -2,6 +2,12 @@
 
 #### Information: Version 1.28 released (21.August 2026)
 
+- Radio List Dialog: Clicks on a desired station are now handled by Hamlib-rigctl.
+  Radio-Channel hopping with mouse click is now possible.
+ 
+- Timer Events Dialog: A bug has been fixed.
+  Entries in the list should no longer conflict with other functions.
+
 - Fixed a significant logic error affecting timer events:  
 Timer events should now always start correctly.
 
