@@ -2,9 +2,9 @@
 
 #### Information: Version 1.28 released (21.August 2026)
 
-- Dialog Radio List: Once Dream has been started, the desired station can now be selected via Hamlib-rigctl.  
-  Channel hopping is now possible.  
-  Naturally, this is not possible when using "Start Dream with Log".  
+- Dialog Radio List: Once Dream has been started, you can now select a desired station from the list with a mouse click,  
+  and Hamlib-rigctl will tune to it. Channel hopping is now possible.  
+  Naturally, this is not possible when using "Start Dream with Log". 
  
 - Timer Events Dialog: A bug has been fixed.
   Entries in the list should no longer conflict with other functions.
