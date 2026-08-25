@@ -1,5 +1,11 @@
 ## DRMLogPlotter - rebuild  
 
+
+<img width="1480" height="834" alt="Bildchen final" src="https://github.com/user-attachments/assets/4822a3f4-65da-4d75-9710-2a0cfad89720" />
+
+
+
+
 #### Information: Version 1.28 released (21.August 2026)
 
 - Dialog Radio List: Once Dream has been started, you can now select a desired station from the list with a mouse click,  
