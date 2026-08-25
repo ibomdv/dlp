@@ -4,9 +4,10 @@
 
 
     
+<img width="1479" height="843" alt="Bildchen 2 final" src="https://github.com/user-attachments/assets/88c13ae5-053a-4a12-8a1a-71f0e99f83a3" />
 
 
-<img width="1480" height="834" alt="Bildchen final" src="https://github.com/user-attachments/assets/4822a3f4-65da-4d75-9710-2a0cfad89720" />
+
 
 
 
