@@ -1,6 +1,6 @@
 ## DRMLogPlotter - rebuild  
 
-Click on the image to enlarge it.  
+(Click on the image to enlarge it.) 
 
 
     
