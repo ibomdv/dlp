@@ -10,6 +10,19 @@
 
 #### Information: Version 1.28.1 released (27.August 2026)
 
+- Station list: When opening the station list via the main interface (GUI),  
+  the list no longer jumps to the first row but to the last selected row (except after a complete      program restart). This does not apply to the station list under "Set-Event".
+
+- Clicking "Average" in the main interface generates a line in the chart.  
+  The positioning of the text or value at the end of the line has been optimized.
+
+- Clock in the main interface: Settings can now be toggled.  
+  Clicking UTC switches to Local time.  
+  Clicking Time changes the color.
+
+- Main interface -> Station list -> After restarting DRMLogPlotter and starting logging via the station list, the .csv file size was not displayed correctly. Fixed.
+  
+
 
 
 #### Information: Version 1.28 released (21.August 2026)
