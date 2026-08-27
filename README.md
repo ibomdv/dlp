@@ -20,7 +20,9 @@
   Clicking UTC switches to Local time.  
   Clicking Time changes the color.
 
-- Main interface -> Station list -> After restarting DRMLogPlotter and starting logging via the station list, the .csv file size was not displayed correctly. Fixed.
+- Main interface -> Station list  
+  After restarting DRMLogPlotter and starting logging via the station list,  
+  the .csv file size was not displayed correctly. Fixed.
   
 
 
