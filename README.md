@@ -2,7 +2,9 @@
 
 
 #### Update 28.09.2026 -> to 1.28.2: Click in Radio List does not transfer the RX-Frequency to FLRig -> Solved.  
-Information: The AppImage files for Linux and Raspberry Pi will be removed at the end of December.
+Information: The AppImage files for Linux and Raspberry Pi will be removed at the end of December.  
+
+  
 (Click on the image to enlarge it.) 
 
 
