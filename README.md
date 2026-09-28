@@ -1,7 +1,7 @@
 ## DRMLogPlotter - rebuild  
 
 
-Small update: Click in Radio List does not transfer the RX-Frequency to FLRig -> Solved.
+#### Update to 1.28.2: Click in Radio List does not transfer the RX-Frequency to FLRig -> Solved.
 (Click on the image to enlarge it.) 
 
 
