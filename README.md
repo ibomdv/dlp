@@ -150,7 +150,7 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
   
 
-#### DRM-Radio-List View   
+### DRM-Radio-List View   
 
 If your receiver (transceiver) is connected to the DRMLogPlotter-rebuild via remote control,  
 a single click in the list is all it takes to change the RX frequency.  
