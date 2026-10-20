@@ -1,7 +1,9 @@
-## DRMLogPlotter - rebuild  
+# DRMLogPlotter - rebuild   
+
+You only need the DReaM decoder software and a receiver (optionally with remote control capability).  
 
   
-(Click on the image to enlarge it.) 
+(Click on the image to enlarge it.)  
 
 
     
@@ -154,6 +156,7 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 If your receiver (transceiver) is connected to the DRMLogPlotter-rebuild via remote control,  
 a single click in the list is all it takes to change the RX frequency.  
+  
 Further down, simply click "Start Dream" or "Start Dream with Log" to activate the desired function.  
 It couldn't be any faster! ;-)  
  
