@@ -150,7 +150,21 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
   
 
-#### New DRM-Radio-List View  
+#### DRM-Radio-List View   
+
+Information:  
+
+Download the latest radio list of your choice as an .ini file from the following website.  
+
+
+Dream DRMSchedule.ini format (all data) *
+Dream DRMSchedule.ini format (shortwave only)  
+
+Copy the file into the "DRMLogPlotter rebuild" folder, alongside the other files.  
+You can now load the file using the "Load DRM Schedule" function within the program. You may also modify, expand, or supplement it according to your personal interests.  
+
+
+
 
 <img width="1002" height="667" alt="Radio List 1" src="https://github.com/user-attachments/assets/97da899e-8bc5-47c4-9ebb-c11dcb25e4c0" />
 
