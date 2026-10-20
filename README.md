@@ -152,12 +152,16 @@ In the latest version, this works very well across Python, Windows 11, and Linux
 
 #### DRM-Radio-List View   
 
-Information:  
+If your receiver (transceiver) is connected to the DRMLogPlotter-rebuild via remote control,  
+a single click in the list is all it takes to change the RX frequency.  
+Further down, simply click "Start Dream" or "Start Dream with Log" to activate the desired function.  
+It couldn't be any faster! ;-)  
+ 
 
 Download the latest radio list of your choice as an .ini file from the following website.  
 
-
-Dream DRMSchedule.ini format (all data) *
+https://www.drmrx.org/drmschedules/  
+Dream DRMSchedule.ini format (all data) *  
 Dream DRMSchedule.ini format (shortwave only)  
 
 Copy the file into the "DRMLogPlotter rebuild" folder, alongside the other files.  
