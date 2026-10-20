@@ -1,60 +1,11 @@
 ## DRMLogPlotter - rebuild  
 
-
-#### Update 28.09.2026 -> to 1.28.2: Click in Radio List does not transfer the RX-Frequency to FLRig -> Solved.  
-Information: The AppImage files for Linux and Raspberry Pi will be removed at the end of December.  
-
   
 (Click on the image to enlarge it.) 
 
 
     
 <img width="1479" height="843" alt="Bildchen 2 final" src="https://github.com/user-attachments/assets/88c13ae5-053a-4a12-8a1a-71f0e99f83a3" />
-
-
-
-#### Information: Version 1.28.1 released (27.August 2026)
-
-- Station list: When opening the station list via the main interface (GUI),  
-  the list no longer jumps to the first row but to the last selected row (except after a complete      program restart). This does not apply to the station list under "Set-Event".
-
-- Clicking "Average" in the main interface generates a line in the chart.  
-  The positioning of the text or value at the end of the line has been optimized.
-
-- Clock in the main interface: Settings can now be toggled.  
-  Clicking UTC switches to Local time.  
-  Clicking Time changes the color.
-
-- Main interface -> Station list  
-  After restarting DRMLogPlotter and starting logging via the station list,  
-  the .csv file size was not displayed correctly. Fixed.
-  
-
-
-
-#### Information: Version 1.28 released (21.August 2026)
-
-- Dialog Radio List: Once Dream has been started, you can now select a desired station from the list with a mouse click,  
-  and Hamlib-rigctl will tune to it. Channel hopping is now possible.  
-  Naturally, this is not possible when using "Start Dream with Log". 
- 
-- Timer Events Dialog: A bug has been fixed.
-  Entries in the list should no longer conflict with other functions.
-
-- Fixed a significant logic error affecting timer events:  
-Timer events should now always start correctly.
-
-- RX Frequency Status LED:  
-A discrepancy between Hamlib/rigctl and analog operation without Hamlib has been resolved.  
-The RX frequency LED no longer lights up red when Hamlib/rigctl is disabled.  
-
-  If Hamlib is enabled and setting the frequency fails, this LED continues to signal a problem by glowing red.  
-
-- Fixed an issue when starting "Dream with Log" from the Radio List dialog:  
-The Autoplot LED now shows yellow ("Wait") after a manual start and subsequently switches correctly to green.  
-
-- Corrected minor program logic steps and informational text.  
-- Fixed minor but very annoying compilation errors for Linux and Raspberry Pi.  
 
 
 
