@@ -1,6 +1,6 @@
 # DRMLogPlotter - rebuild   
 
-You only need the DReaM decoder software and a receiver (optionally with remote control capability).  
+#### You only need the DReaM decoder software and a receiver (optionally with remote control capability).  
 
   
 (Click on the image to enlarge it.)  
@@ -13,7 +13,7 @@ You only need the DReaM decoder software and a receiver (optionally with remote 
 
 ......................................................................................
 
-### DRMLogPlotter rebuild 1.28
+#### The beginning:
 
 It started as an experiment in programming with AI.  
 
@@ -28,16 +28,14 @@ C:\DRMLogPlotter.
 
 - No .dll files need to be registered.
 
- - Everything is completely new.  
+- Everything is completely new.  
 
-
-
-- Just set DRMLogPlotter.exe to "Run as administrator" in the compatibility settings.  
 - That’s all there is to it!  
 
 - After launching the program, set the directory path for the DReaM decoder software and the Hamlib parameters for (if you have) the remote receiver.  
 
-- No remote RX available? No problem. All other features still work with Dream.
+- No remote RX available? No problem.
+- All other functions for creating a log plot continue to work with Dream.
 
 You're all set.
 Have fun experimenting!
