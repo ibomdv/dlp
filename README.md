@@ -2,6 +2,8 @@
 
 #### You only need the DReaM decoder software and a receiver (optionally with remote control capability).  
 
+
+###### Up-to-date information on loading the current DRM schedule can now be found further down in the text.
   
 (Click on the image to enlarge it.)  
 
